@@ -8,6 +8,8 @@ I'm from Pakistan :pakistan:
 I love food :stew: , books written by medical doctors :stethoscope: and organizing things :rainbow:  
 I'm currently doing my MPP with the Data Analytics certificate from Harris :computer:  
 I worked in management consulting before joining Harris, and creating data visualizations :chart_with_upwards_trend: was one of my favorite parts of the job  
+
+You can take a look at my data selfie to learn more about me.
   
 **I'm here to learn more about how I can make data :1234: more accessible and beautiful :bouquet: for people ** 
 
