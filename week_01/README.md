@@ -11,5 +11,5 @@ I worked in management consulting before joining Harris, and creating data visua
 
 You can take a look at my data selfie to learn more about me.
   
-**I'm here to learn more about how I can make data :1234: more accessible and beautiful :bouquet: for people ** 
+**I'm here to learn more about how I can make data :1234: more accessible and beautiful :bouquet: for people** 
 
