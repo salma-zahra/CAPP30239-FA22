@@ -3,6 +3,19 @@ I hope to combine two different data sets to look at global CO2 emmissions and a
 
 Both the datasets are secondary sources.
 
+## Data set 1: 
+### Title: 
+ANNUAL CO2 EMISSIONS
+### Description of data:
+Annual production-based emissions of carbon dioxide (CO2), measured in tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods.
+### Agency:
+Global Carbon Budget - Global Carbon Project (v2021), retrieved by Our World in Data
+### Location:
+Global
+### Link:
+https://ourworldindata.org/grapher/annual-co2-emissions-per-country?country=PAK~USA~CHN
+
+
 
 ## Data set 2: 
 ### Title: 
@@ -15,5 +28,3 @@ OECD
 Global
 ### Link:
 https://data.oecd.org/air/air-pollution-exposure.htm
-### Citation 
-OECD (2022), Air pollution exposure (indicator). doi: 10.1787/8d9dcc33-en (Accessed on 16 October 2022)
