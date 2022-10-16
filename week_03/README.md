@@ -8,8 +8,8 @@ Title, Agency, Location, Link
 
 ## Thoughts on how I hope to use this data:
 
-## Potential data points
+## Potential data points:
 
-## Concerns about the data
+## Concerns about the data:
 
 ## Identify if source is primary or secondary. If secondary data, how you envision this data working with the primary source?
