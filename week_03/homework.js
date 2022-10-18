@@ -5,8 +5,8 @@ d3.csv("library_visits_jan22.csv").then(data => {
         d.num = +d.num; //force a number
     };
 
-    const height = 600,
-          width = 800,
+    const height = 400,
+          width = 700,
           margin = ({ top: 25, right: 30, bottom: 35, left: 50 }); //defining margin as an object so we can give it values
 
     let svg = d3.select("#chart") 
@@ -44,11 +44,32 @@ d3.csv("library_visits_jan22.csv").then(data => {
         .attr("y", d => y(d.num)) // y position attribute
         .attr("height", d => y(0) - y(d.num)); // this height is the height attr on element
     
-    bar.append('text') // add labels
+    bar.append("text") // add data labels
         .text(d => d.num)
-        .attr('x', d => x(d.branch) + (x.bandwidth()/2))
-        .attr('y', d => y(d.num) - 15) // +15 will put the data label inside the bar
-        .attr('text-anchor', 'middle')
-        .style('fill', 'black');
+        .attr("x", d => x(d.branch) + (x.bandwidth()/2))
+        .attr("y", d => y(d.num) - 15) // +15 will put the data label inside the bar
+        .attr("text-anchor", "middle")
+        .style("fill", "black");
 
+    svg.append("text") // add x axis label
+        .attr("class", "x label")
+        .attr("text-anchor", "middle")
+        .attr("x", width)
+        .attr("y", height - 6)
+        .style("font-size", "14px") 
+        .text("Library branch");
+
+    svg.append("text") // add y axis label
+        .attr("class", "y label")
+        .attr("text-anchor", "end")
+        .attr("y", 6)
+        .attr("dy", ".75em")
+        .style("font-size", "14px") 
+        .text("Number of visits");
+
+    svg.append("text") // add title
+        .attr("x", width / 2 )
+        .attr("y", 0)
+        .style("text-anchor", "middle")
+        .text("Library visits in January 2022");
 });
