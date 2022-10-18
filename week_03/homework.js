@@ -14,7 +14,7 @@ d3.csv("library_visits_jan22.csv").then(data => {
         .attr("viewBox", [0, 0, width, height]); // for resizing element in browser
     
     let x = d3.scaleBand()
-        .domain(data.map(d => d.branch)) // map will match the values in the csv
+        .domain(data.map(d => d.branch)) // map will match the values in the csv. => indicates we're looping through the data. we're mapping and creating an array
         .range([margin.left, width - margin.right]) // pixels on page
         .padding(0.1); // padding is a stylistic element
     
@@ -23,12 +23,12 @@ d3.csv("library_visits_jan22.csv").then(data => {
         .range([height - margin.bottom, margin.top]); //svgs are built from top down, so this is reversed
     
     /* Update: simplfied axes */
-    svg.append("g")
-        .attr("transform", `translate(0,${height - margin.bottom + 5})`) // move location of axis
+    svg.append("g") // g is part of the html. Its a group element
+        .attr("transform", `translate(0,${height - margin.bottom + 5})`) // transform allows us to move location of axis by 5 pixels
         .call(d3.axisBottom(x));
     
     svg.append("g")
-        .attr("transform", `translate(${margin.left - 5},0)`) // transform allows us to move axis
+        .attr("transform", `translate(${margin.left - 5},0)`) 
         .call(d3.axisLeft(y));
 
     let bar = svg.selectAll(".bar") // create bar groups
@@ -40,7 +40,7 @@ d3.csv("library_visits_jan22.csv").then(data => {
     bar.append("rect") // add rect to bar group
         .attr("fill", "purple")
         .attr("x", d => x(d.branch)) // x position attribute
-        .attr("width", x.bandwidth()) // this width is the width attr on the element
+        .attr("width", x.bandwidth()) // this width is the width attr on the element. Bnadwidth is only used for bar chart because it comes with scaleband
         .attr("y", d => y(d.num)) // y position attribute
         .attr("height", d => y(0) - y(d.num)); // this height is the height attr on element
     
@@ -69,7 +69,7 @@ d3.csv("library_visits_jan22.csv").then(data => {
 
     svg.append("text") // add title
         .attr("x", width / 2 )
-        .attr("y", 0)
+        .attr("y", 20)
         .style("text-anchor", "middle")
         .text("Library visits in January 2022");
 });
