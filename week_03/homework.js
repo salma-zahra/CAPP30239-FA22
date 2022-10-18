@@ -7,19 +7,19 @@ d3.csv("library_visits_jan22.csv").then(data => {
 
     const height = 600,
           width = 800,
-          margin = ({ top: 25, right: 30, bottom: 35, left: 50 });
+          margin = ({ top: 25, right: 30, bottom: 35, left: 50 }); //defining margin as an object so we can give it values
 
-    let svg = d3.select("#chart")
+    let svg = d3.select("#chart") 
         .append("svg")
         .attr("viewBox", [0, 0, width, height]); // for resizing element in browser
     
     let x = d3.scaleBand()
-        .domain(data.map(d => d.branch)) // data, returns array
+        .domain(data.map(d => d.branch)) // map will match the values in the csv
         .range([margin.left, width - margin.right]) // pixels on page
-        .padding(0.1);
+        .padding(0.1); // padding is a stylistic element
     
     let y = d3.scaleLinear()
-        .domain([0, d3.max(data, d => d.num)]).nice() // nice rounds the top num
+        .domain([0, d3.max(data, d => d.num)]).nice() // nice rounds the top number to make it cleaner
         .range([height - margin.bottom, margin.top]); //svgs are built from top down, so this is reversed
     
     /* Update: simplfied axes */
@@ -28,7 +28,7 @@ d3.csv("library_visits_jan22.csv").then(data => {
         .call(d3.axisBottom(x));
     
     svg.append("g")
-        .attr("transform", `translate(${margin.left - 5},0)`)
+        .attr("transform", `translate(${margin.left - 5},0)`) // transform allows us to move axis
         .call(d3.axisLeft(y));
 
     let bar = svg.selectAll(".bar") // create bar groups
@@ -47,8 +47,8 @@ d3.csv("library_visits_jan22.csv").then(data => {
     bar.append('text') // add labels
         .text(d => d.num)
         .attr('x', d => x(d.branch) + (x.bandwidth()/2))
-        .attr('y', d => y(d.num) + 15)
+        .attr('y', d => y(d.num) - 15) // +15 will put the data label inside the bar
         .attr('text-anchor', 'middle')
-        .style('fill', 'white');
+        .style('fill', 'black');
 
 });
