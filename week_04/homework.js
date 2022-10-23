@@ -22,10 +22,10 @@ d3.csv('long-term-interest-canada.csv').then(data => {
 
     let y = d3.scaleLinear()
         .domain([0,d3.max(data, d => d.Num)]).nice() // nice to round up axis tick
-        .range([height - margin.bottom, margin.top]);
+        .range([height - margin.bottom, margin.top]); // range is an array so we put square brackets
     
     svg.append("g")
-      .attr("transform", `translate(${margin.left},0)`)
+      .attr("transform", `translate(${margin.left},0)`) // built top down so we start with height
       .attr("class", "y-axis") // adding a class to y-axis for scoping
       .call(d3.axisLeft(y)
         .tickSizeOuter(0)
@@ -35,7 +35,7 @@ d3.csv('long-term-interest-canada.csv').then(data => {
 
     svg.append("g")
       .attr("transform", `translate(0,${height - margin.bottom})`)
-      .call(d3.axisBottom(x).tickSizeOuter(0));
+      .call(d3.axisBottom(x).tickSizeOuter(0)); // ticksizeouter removes the hanging over ticks on the y axis
 
     svg.append("text")
       .attr("class", "x-label")
@@ -64,6 +64,6 @@ d3.csv('long-term-interest-canada.csv').then(data => {
         .datum(data)
         .attr("d", line)
         .attr("fill", "none")
-        .attr("stroke", "steelblue");
+        .attr("stroke", "red");
 
   });
