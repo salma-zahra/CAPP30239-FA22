@@ -9,7 +9,8 @@ This repo has been created for the Data Visualization and Policy Analysis course
 
 ## Update on HW
 HW 3 has been completed. I made a barchart displaying public library visits in January 2022.
-\nHW 4 has been completed. I made a linechart displaying interest rates in Canada in 2020.
+
+HW 4 has been completed. I made a linechart displaying interest rates in Canada in 2020.
 
 ## Contact  
 You can also reach out to me via [email](mailto:salmaz@uchicago.edu) or [Linkedin](https://www.linkedin.com/in/salma-zahra-05285112b/).
