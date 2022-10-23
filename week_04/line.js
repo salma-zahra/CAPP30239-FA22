@@ -60,10 +60,11 @@ d3.csv('long-term-interest-monthly.csv').then(data => {
 
     let line = d3.line() 
         .x(d => x(d.Date)) 
-        .y(d => y(d.Value));
+        .y(d => y(d.Value))
+        .curve(d3.curveNatural);
 
-    svg.append("path") // find error in this block
-        .datum("data")
+    svg.append("path") 
+        .datum(data)
         .attr("d", line)
         .attr("fill", "none")
         .attr("stroke", "steelblue");
