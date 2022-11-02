@@ -30,7 +30,7 @@ everest.columns
 everest['CLIMBER'] = everest['FNAME'].astype(str) + ' ' + everest['LNAME'].astype(str) 
 
 everest = everest.drop(columns = ['PEAKID', 'MEMBID', 'AGE', 'BIRTHDATE', 
-                                  'YOB', 'RESIDENCE', 'BCONLY', 'NOTTOBC', 
+                                  'RESIDENCE', 'BCONLY', 'NOTTOBC', 
                                   'MSPEED', 'MHIGHPT', 'MPERHIGHPT', 'MSMTDATE1', 
                                   'MSMTDATE2', 'MSMTDATE3', 'MSMTTIME1', 
                                   'MSMTTIME2', 'MSMTTIME3', 'MROUTE1', 
@@ -43,6 +43,14 @@ everest = everest.drop(columns = ['PEAKID', 'MEMBID', 'AGE', 'BIRTHDATE',
                                   'MSMTNOTE3', 'DEATHRTE'])
 
 everest.to_csv('everest.csv')
+
+#Sherpa
+
+sherpa_everest = everest[everest['SHERPA'] == True]
+avg_climb_sherpa = sherpa_everest.groupby(['FNAME', 'YOB'])['CLIMBER'].count().reset_index()
+avg_climb_sherpa.head()
+
+avg_climb_sherpa['CLIMBER'].describe()
 
 #AGE
 
