@@ -17,7 +17,7 @@ d3.csv('long-term-interest-canada.csv').then(data => {
     }
 
     let x = d3.scaleTime()
-        .domain(d3.extent(data, d => d.Month)) // returns an array
+        .domain(0,d3.extent(data, d => d.Month)) // returns an array
         .range([margin.left, width - margin.right]);
 
     let y = d3.scaleLinear()
