@@ -1,0 +1,22 @@
+[
+    {
+      "category": "Black",
+      "amount": 378
+    },
+    {
+        "category": "Hispanic",
+        "amount": 246
+      },
+      {
+        "category": "Other",
+        "amount": 48
+      },
+      {
+        "category": "Unknown",
+        "amount": 114
+      },
+      {
+        "category": "White",
+        "amount": 751
+      }
+  ]

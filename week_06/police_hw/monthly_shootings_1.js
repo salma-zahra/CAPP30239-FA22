@@ -1,4 +1,3 @@
-
 d3.csv("monthly_shootings.csv").then(data => {
 
     for (let d of data) {
@@ -54,22 +53,25 @@ d3.csv("monthly_shootings.csv").then(data => {
     svg.append("text") // add x axis label
         .attr("class", "x label")
         .attr("text-anchor", "middle")
-        .attr("x", width)
-        .attr("y", height - 6)
-        .style("font-size", "14px") 
+        .attr("x", width - 40)
+        .attr("y", height - 2)
+        .style("font-size", "10px") 
         .text("Month");
 
     svg.append("text") // add y axis label
         .attr("class", "y label")
-        .attr("text-anchor", "end")
-        .attr("y", 6)
+        .attr("text-anchor", "top")
+        .attr("x", width)
+        .attr("y", height)
+        .attr("y", 140)
         .attr("dy", ".75em")
-        .style("font-size", "14px") 
+        .style("font-size", "10px") 
         .text("Number of shootings");
 
     svg.append("text") // add title
         .attr("x", width / 2 )
-        .attr("y", 20)
+        .attr("y", 10)
         .style("text-anchor", "middle")
-        .text("Monthly Police shootings in 2015");
+        .style("font-size", "10px") 
+        .text("Number of monthly Police shootings in 2015");
 });
