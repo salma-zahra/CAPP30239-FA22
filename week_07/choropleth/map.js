@@ -26,8 +26,8 @@ Promise.all([
   const counties = topojson.feature(us, us.objects.counties);
 
   // Quantize evenly breakups domain into range buckets
-  const color = d3.scaleQuantize() // quantize takes domain and separates diff buckets of the color
-    .domain([0, 10]).nice() // sets color scale
+  const color = d3.scaleQuantize()
+    .domain([0, 10]).nice()
     .range(d3.schemeBlues[9]);
 
   const path = d3.geoPath();
