@@ -11,8 +11,8 @@ d3.json("libs/counties-albers-10m.json").then(us => {
   const az = topojson.feature(us, us.objects.states); // Map simple geometries, used to create canvas
   const mesh = topojson.mesh(us, us.objects.states); // Shape of object, used to center and resize (projection)
   const projection = d3.geoIdentity()
-    .angle(10)
-    .fitSize([width, height], mesh);
+    .angle(10) //tilts arizona
+    .fitSize([width, height], mesh); //gives the domain
   const path = d3.geoPath().projection(projection);
 
   svg.append("g")

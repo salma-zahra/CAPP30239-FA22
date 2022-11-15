@@ -23,23 +23,23 @@
   <div id="map"></div>
   <div id="content"></div>
   <script>
-    // const map = L.map('map').setView([41.8781, -87.6298], 11);
+    const map = L.map('map').setView([41.8781, -87.6298], 11);
 
-    // const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    //   maxZoom: 19,
-    //   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    // }).addTo(map);
+    const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
 
-    // var marker = L.marker([41.789722, -87.599724]).addTo(map);
+    var marker = L.marker([41.789722, -87.599724]).addTo(map);
 
-    // marker.bindPopup("<b>University of Chicago</b><br>You are here.");
+    marker.bindPopup("<b>University of Chicago</b><br>You are here.");
 
-    // function onMapClick(e) {
-    //   let str = "This is an example of leaflet! So easy!!";
-    //   document.getElementById("content").innerHTML = str;
-    // }
+    function onMapClick(e) {
+      let str = "This is an example of leaflet! So easy!!";
+      document.getElementById("content").innerHTML = str;
+    }
 
-    // map.on('click', onMapClick);
+    map.on('click', onMapClick);
   </script>
 </body>
 
