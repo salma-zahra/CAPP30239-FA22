@@ -11,6 +11,7 @@ import os
 
 # Loading, merging and filtering data
 path = '/Users/salma/Documents/GitHub/CAPP30239-FA22/Raw Project Data'
+datapath = '/Users/salma/Documents/GitHub/CAPP30239-FA22/data'
 
 peak_names = pd.read_csv(os.path.join(path, 'peak_data.csv'), 
                          usecols = ['PEAKID', 'PKNAME'])
@@ -42,25 +43,25 @@ everest = everest.drop(columns = ['PEAKID', 'MEMBID', 'AGE', 'BIRTHDATE',
                                   'MCHKSUM', 'MSMTNOTE1', 'MSMTNOTE2', 
                                   'MSMTNOTE3', 'DEATHRTE'])
 
-everest.to_csv('everest.csv')
+everest.to_csv(os.path.join(datapath,'everest.csv'))
 
 #everest deaths
 
 everest_deaths = everest[everest['DEATH'] == True]
-everest_deaths.to_csv('everest_deaths.csv')
+everest_deaths.to_csv(os.path.join(datapath,'everest_deaths.csv'))
 
 everest_deaths_year = everest_deaths.groupby(['MYEAR', 'SHERPA'])['PKNAME'].count().reset_index()
-everest_deaths_year.to_csv('everest_deaths_year.csv')
+everest_deaths_year.to_csv(os.path.join(datapath,'everest_deaths_year.csv'))
 
 #everest injured
 
 everest_injured = everest[everest['INJURY'] == True]
-everest_injured.to_csv('everest_injured.csv')
+everest_injured.to_csv(os.path.join(datapath,'everest_injured.csv'))
 
 #everest success
 
 everest_summit = everest[everest['MSUCCESS'] == True]
-everest_summit.to_csv('everest_summit.csv') 
+everest_summit.to_csv(os.path.join(datapath,'everest_summit.csv')) 
 
 #Sherpa average climb
 
@@ -82,7 +83,7 @@ climber_summit_dist.rename({'PKNAME':'Climber'}, axis=1, inplace=True)
 
 #Summit dist
 summit_dist = sherpa_summit_dist.merge(climber_summit_dist, on='index', how='inner')
-summit_dist.to_csv('summit_dist.csv')
+summit_dist.to_csv(os.path.join(datapath,'summit_dist.csv'))
 
 #avg_climber = climber_everest.groupby(['CLIMBER', 'YOB']).count().reset_index()
 #avg_climber.head()
