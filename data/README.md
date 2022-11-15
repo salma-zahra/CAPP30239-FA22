@@ -13,4 +13,4 @@ You can find more information about the database here:
 ## Why are Sherpas dying on Everest?
 Sherpas are a Nepalese ethnic group, renowned for their climbing skills and superior strength and endurance at high altitudes. They act as guides and porters for mountanious expeditions, and do everything from carrying the loads to setting up the camps. They secure climbing routes, fix lines, ferry supplies and guide clients to the top of Everest and other Himalayan peaks.
 
-Yet, despite their climbing expertise, one third of all deaths on Everest over the past 100 years have been Sherpas. I will be using the Himalayan Database to identify potential reasons for the large number of Sherpa deaths on Everest.
+Yet, despite their climbing expertise, one third of all deaths on Everest over the past 100 years have been Sherpas. I will be using the Himalayan Database to identify potential causes for the large number of Sherpa deaths on Everest.
