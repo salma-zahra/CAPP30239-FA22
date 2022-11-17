@@ -18,8 +18,8 @@ d3.csv("injury_parallel.csv").then((data) => {
     d.value = +d.value;
   }
 
-  let genders = [...new Set(data.map(d => d.source))]; //spread syntax
-  // console.log(genders);
+  let climbers = [...new Set(data.map(d => d.source))]; //spread syntax
+  // console.log(climbers);
 
   let graph = nodeLinkData(data, ["source", "target"]);
 
@@ -36,7 +36,7 @@ d3.csv("injury_parallel.csv").then((data) => {
 
   let color = d3.scaleOrdinal()
     .range([d3.schemeTableau10[4], d3.schemeTableau10[6]])
-    .domain(genders);
+    .domain(climbers);
 
   const { nodes, links } = sankey(graph); // modifies and returns graph
 
@@ -70,7 +70,7 @@ d3.csv("injury_parallel.csv").then((data) => {
         .attr("opacity", 0.75);
     })
     .on("click", function(e, d) {
-      let str = `${d.source.name} earned ${d.source.value.toLocaleString()} ${d.target.name} Degrees`;
+      let str = `Number of ${d.source.name} climbers ${d.source.value.toLocaleString()} ${d.target.name}`;
       d3.select("h2")
         .html(str);
     })
@@ -83,7 +83,7 @@ d3.csv("injury_parallel.csv").then((data) => {
     .append("text")
     .attr("x", 0)
     .attr("y", 16)
-    .text("Gender");
+    .text("Climber");
 
   svg.append("g")
     .style("font-weight", "bold")
@@ -91,7 +91,7 @@ d3.csv("injury_parallel.csv").then((data) => {
     .attr("x", width - margin.left)
     .attr("y", 16)
     .attr("text-anchor", "end")
-    .text("Degrees");
+    .text("Injury");
 
   svg.append("g")
     .selectAll("text")

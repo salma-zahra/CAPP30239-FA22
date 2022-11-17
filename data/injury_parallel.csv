@@ -1,5 +1,5 @@
-SHERPA,INJURY,PKNAME
-False,False,15922
-False,True,446
-True,False,6213
-True,True,45
+,source,target,prop,total,value
+0,non-sherpa,not injured,15922,16368,97.27517106549365
+1,non-sherpa,injured,446,16368,2.7248289345063537
+2,sherpa,not injured,6213,6258,99.28092042186002
+3,sherpa,injured,45,6258,0.7190795781399808
