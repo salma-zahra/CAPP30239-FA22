@@ -1,4 +1,5 @@
 // Symbol function immediately invoked
+
 (function symbol() {
     let height = 400,
     width = 600,
