@@ -58,7 +58,7 @@ function BeeswarmChart(data, {
 
     // Construct scales and axes.
     const xScale = xType(xDomain, xRange);
-    const xAxis = d3.axisBottom(xScale).tickSizeOuter(0);
+    const xAxis = d3.axisBottom(xScale).tickSizeOuter(0).ticks(30);
     const color = group == null ? null : d3.scaleOrdinal(groups, colors);
 
     // Compute the y-positions.
