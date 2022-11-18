@@ -1,5 +1,8 @@
 // (3) IMPORT DATA 
 d3.csv('everest_deaths.csv').then(data => {
+    data = data.sort((a, b) => d3.ascending(a.SHERPA, b.SHERPA));
+
+
 
     // (4) CALL FUNCTION WITH OPTIONAL PARAMS
     let chart = BeeswarmChart(data, {
@@ -30,8 +33,8 @@ function BeeswarmChart(data, {
     title = null, // given d in data, returns the title
     group, // given d in data, returns an (ordinal) value for color
     groups, // an array of ordinal values representing the data groups
-    colors = d3.schemeTableau10, // an array of color strings, for the dots
-    radius = 5, // (fixed) radius of the circles
+    colors = ["pink", "teal"], // an array of color strings, for the dots
+    radius = 4, // (fixed) radius of the circles
     padding = 6, // (fixed) padding between the circles
     marginTop = 10, // top margin, in pixels
     marginRight = 20, // right margin, in pixels
@@ -58,7 +61,11 @@ function BeeswarmChart(data, {
 
     // Construct scales and axes.
     const xScale = xType(xDomain, xRange);
-    const xAxis = d3.axisBottom(xScale).tickSizeOuter(0).ticks(30);
+    const xAxis = d3
+        .axisBottom(xScale)
+        .tickSizeOuter(0)
+        .ticks(30)
+        .tickFormat(d3.format("d"));
     const color = group == null ? null : d3.scaleOrdinal(groups, colors);
 
     // Compute the y-positions.
@@ -143,22 +150,25 @@ function BeeswarmChart(data, {
             .style("position", "absolute")
             .style("visibility", "hidden");
         
-    d3.selectAll("circle")
-        .on("mouseover", function(event, d) {
-              d3.select(this).attr("fill", "red");
-              tooltip
+    dot
+        .on("mouseover", function (event, i) {
+            const d = data[i];
+            d3.select(this).attr("fill", "black");
+            tooltip
                 .style("visibility", "visible")
-                .html(`Name: ${d.CLIMBER}<br />Climber: ${d.SHERPA}<br />Note: ${d.DEATHNOTE}`);
-            })
-            .on("mousemove", function(event) {
-              tooltip
-                .style("top", (event.pageY - 10) + "px")
-                .style("left", (event.pageX + 10) + "px");
-            })
-            .on("mouseout", function() {
-              d3.select(this).attr("fill", "black");
-              tooltip.style("visibility", "hidden");
-            })
+                .html(
+                  `Name: ${d.CLIMBER}<br />Climber: ${d.SHERPA}<br />Note: ${d.DEATHNOTE}`
+                );
+        })
+        .on("mousemove", function (event) {
+            tooltip
+                .style("top", event.pageY - 10 + "px")
+                .style("left", event.pageX + 10 + "px");
+        })
+        .on("mouseout", function () {
+            d3.select(this).attr("fill", "black");
+            tooltip.style("visibility", "hidden");
+        });
 
     if (T) dot.append("title")
         .text(i => T[i]);
