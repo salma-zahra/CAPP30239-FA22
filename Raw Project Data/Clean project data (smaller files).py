@@ -72,8 +72,8 @@ everest_deaths['SHERPA'] = everest_deaths['SHERPA'].map({False: 'non-sherpa', Tr
 everest_deaths.insert(0, 'CLIMBER', everest_deaths.pop('CLIMBER'))
 everest_deaths.to_csv(os.path.join(datapath,'everest_deaths.csv'))
 
-everest_deaths_year = everest_deaths.groupby(['MYEAR', 'SHERPA'])['PKNAME'].count().reset_index()
-everest_deaths_year.to_csv(os.path.join(datapath,'everest_deaths_year.csv'))
+#everest_deaths_year = everest_deaths.groupby(['MYEAR', 'SHERPA'])['PKNAME'].count().reset_index()
+#everest_deaths_year.to_csv(os.path.join(datapath,'everest_deaths_year.csv'))
 
 #everest injured
 
