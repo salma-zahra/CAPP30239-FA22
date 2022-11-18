@@ -45,9 +45,31 @@ everest = everest.drop(columns = ['PEAKID', 'MEMBID', 'AGE', 'BIRTHDATE',
 
 everest.to_csv(os.path.join(datapath,'everest.csv'))
 
+#injury parallel
+
+injury_parallel = everest.groupby(['SHERPA', 'INJURY'])['PKNAME'].count().reset_index()
+injury_parallel.rename({'SHERPA': 'source', 
+                        'INJURY': 'target', 
+                        'PKNAME':'prop'}, 
+                       axis=1, inplace=True)
+injury_parallel['source'] = injury_parallel['source'].map({False: 'non-sherpa', True: 'sherpa'})
+injury_parallel['target'] = injury_parallel['target'].map({False: 'not injured', True: 'injured'})
+injury_parallel['total'] = [16368, 16368, 6258, 6258]
+injury_parallel['value'] = injury_parallel['prop']/injury_parallel['total'] *100
+injury_parallel.to_csv(os.path.join(datapath,'injury_parallel.csv'))
+
+
+
 #everest deaths
 
 everest_deaths = everest[everest['DEATH'] == True]
+everest_deaths = everest_deaths.drop(columns = ['PKNAME', 'EXPID', 'MSEASON', 'INJURY', 'MO2USED', 'FNAME', 'LNAME', 'YOB',
+       'CALCAGE', 'STATUS', 'OCCUPATION', 'LEADER', 'DEPUTY', 'SUPPORT', 'DISABLED', 'HIRED', 'TIBETAN', 'MSUCCESS',
+       'MCLAIMED', 'MDISPUTED', 'MSOLO', 'MTRAVERSE', 'MSKI', 'MPARAPENTE', 'MO2NONE', 'MO2CLIMB', 'MO2DESCENT', 'MO2SLEEP',
+       'MO2MEDICAL', 'DEATH', 'DEATHDATE', 'DEATHTIME', 'INJURYDATE',
+       'INJURYTIME'])
+everest_deaths['SHERPA'] = everest_deaths['SHERPA'].map({False: 'non-sherpa', True: 'sherpa'})
+everest_deaths.insert(0, 'CLIMBER', everest_deaths.pop('CLIMBER'))
 everest_deaths.to_csv(os.path.join(datapath,'everest_deaths.csv'))
 
 everest_deaths_year = everest_deaths.groupby(['MYEAR', 'SHERPA'])['PKNAME'].count().reset_index()

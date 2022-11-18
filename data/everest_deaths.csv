@@ -1,312 +1,312 @@
-,PKNAME,EXPID,MYEAR,MSEASON,FNAME,LNAME,SEX,YOB,CALCAGE,CITIZEN,STATUS,OCCUPATION,LEADER,DEPUTY,SUPPORT,DISABLED,HIRED,SHERPA,TIBETAN,MSUCCESS,MCLAIMED,MDISPUTED,MSOLO,MTRAVERSE,MSKI,MPARAPENTE,MO2USED,MO2NONE,MO2CLIMB,MO2DESCENT,MO2SLEEP,MO2MEDICAL,DEATH,DEATHDATE,DEATHTIME,INJURY,INJURYDATE,INJURYTIME,DEATHNOTE,CLIMBER
-28728,Everest,EVER63101,1963.0,1.0,John Edgar (Jake),Breitenbach,M,1935.0,27.0,USA,Climber,"Alpine guide; part owner, skiing & mountaineering equipment shop",False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,3/23/63,1400.0,False,,,Killed by ice collapse in Khumbu Icefall,John Edgar (Jake) Breitenbach
-28975,Everest,EVER74301,1974.0,3.0,Gerard,Devouassoux,M,1940.0,34.0,France,Leader,Chamonix guide & deputy to the mayor of Chamonix,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/9/74,1910.0,False,,,Killed by avalanche in C2,Gerard Devouassoux
-29012,Everest,EVER75301,1975.0,3.0,Michael (Mick),Burke,M,1941.0,34.0,UK,Climber,Film cameraman,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,9/26/75,1400.0,False,,,Probable fall near summit (estimate around 2 pm),Michael (Mick) Burke
-29064,Everest,EVER76101,1976.0,1.0,Terry,Thompson,M,1937.0,39.0,UK,Climber,Royal Marines (Captain),False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/10/76,1700.0,False,,,,Terry Thompson
-29183,Everest,EVER79101,1979.0,1.0,Ang Phu,Sherpa,M,1950.0,28.0,Nepal,Sirdar,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/16/79,730.0,False,,,,Ang Phu Sherpa
-29186,Everest,EVER79301,1979.0,3.0,Raymond Edward (Ray),Genet,M,1931.0,48.0,USA,Climber,Alpine guide,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,10/3/79,,False,,,Died of exhaustion and exposure in snow cave biv after descent during night of 2/3 Oct,Raymond Edward (Ray) Genet
-29189,Everest,EVER79301,1979.0,3.0,Hannelore,Schmatz,F,1940.0,39.0,W Germany,Climber,Housewife,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,10/3/79,700.0,False,,,Died of exhaustion and exposure on descent (estimate about 7 am 3 Oct),Hannelore Schmatz
-29276,Everest,EVER80301,1980.0,3.0,Mario (Franco),Piana,M,1943.0,37.0,Italy,Deputy Leader,Worker in large factory,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/22/80,1030.0,False,,,Ice avalanche/collapse above C2,Mario (Franco) Piana
-29313,Everest,EVER80401,1980.0,4.0,Noboru,Takenaka,M,1952.0,28.0,Japan,Climber,"Student of pedagogy, Waseda University",False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,1/12/81,1000.0,False,,,,Noboru Takenaka
-29411,Everest,EVER82102,1982.0,1.0,Mary Francis (Marty),Hoey,F,1951.0,30.0,USA,Climber,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/15/82,1730.0,False,,,,Mary Francis (Marty) Hoey
-29440,Everest,EVER82302,1982.0,3.0,George Blair,Griffiths,M,1949.0,33.0,Canada,Climber,Freelance cameraman,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/2/82,900.0,False,,,Killed in Khumbu Icefall by collapsing ice serac (5600-5800m),George Blair Griffiths
-29467,Everest,EVER82402,1982.0,4.0,Yasuo,Kato,M,1949.0,33.0,Japan,Leader,Businessman,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,12/28/82,,False,,,Disappeared - blown off by wind?,Yasuo Kato
-29468,Everest,EVER82402,1982.0,4.0,Toshiaki,Kobayashi,M,1948.0,34.0,Japan,Climber,Cashier,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,12/28/82,,False,,,Disappeared - blown off by wind?,Toshiaki Kobayashi
-29555,Everest,EVER83305,1983.0,3.0,Pasang Temba,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/8/83,1700.0,False,,,Fall in late afternoon in descent from summit attempt (not the Pasang Temba from Ghat) (estimate 5-6 pm),Pasang Temba Sherpa
-29557,Everest,EVER83306,1983.0,3.0,Hironobu,Kamuro,M,1951.0,31.0,Japan,Climber,Buddhist monk,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,10/8/83,1800.0,False,,,Fall? (disappeared) (JAC estimates 6 pm),Hironobu Kamuro
-29558,Everest,EVER83306,1983.0,3.0,Hiroshi,Yoshino,M,1950.0,33.0,Japan,Leader,"Salesman, mountaineering equipment shop",True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,10/9/83,630.0,False,,,Fall? (disappeared) (JAC estimates 6 am after all-night biv),Hiroshi Yoshino
-29613,Everest,EVER84102,1984.0,1.0,Ang Rinji,Sherpa,M,,49.0,Nepal,H-A Worker,High-altitude porter,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,3/26/84,808.0,False,,,Avalanche from Lho La,Ang Rinji Sherpa
-29614,Everest,EVER84102,1984.0,1.0,Jangbir,Rai,M,,0.0,Nepal,Kitchen Boy,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,3/28/84,,False,,,Pulmonary edema at Lobuche on return,Jangbir Rai
-29636,Everest,EVER84103,1984.0,1.0,Christo Ivanov,Prodanov,M,1943.0,41.0,Bulgaria,Deputy Leader,Metallurgical engineer,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,4/21/84,,False,,,Exposure and exhaustion on descent from summit (died during overnight bivouac?); body never found,Christo Ivanov Prodanov
-29645,Everest,EVER84104,1984.0,1.0,Anthony Mark (Tony),Swierzy,M,1956.0,27.0,UK,Climber,Member of G Squadron Headquarters Hereford Garrison,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/3/84,615.0,False,,,,Anthony Mark (Tony) Swierzy
-29658,Everest,EVER84302,1984.0,3.0,Yogendra Bahadur,Thapa,M,1948.0,36.0,Nepal,Leader,Inspector Nepal Police,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,True,10/24/84,1000.0,False,,,"Fall (c8400m)? (last contact 9 am, estimate fall about 10 am)",Yogendra Bahadur Thapa
-29659,Everest,EVER84302,1984.0,3.0,Ang Dorje,Sherpa,M,,35.0,Nepal,H-A Worker,High-altitude porter,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/24/84,1000.0,False,,,"Fall (c8400m)? (last contact 9 am, estimate fall about 10 am)",Ang Dorje Sherpa
-29692,Everest,EVER84304,1984.0,3.0,William Robert (Fred),From,M,1956.0,28.0,Australia,Climber,Physicist,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/9/84,830.0,False,,,Fell at bottom of Hornbein Couloir after returning to scene of Nottle's fall to render assistance,William Robert (Fred) From
-29697,Everest,EVER84304,1984.0,3.0,Craig Rupert,Nottle,M,1961.0,23.0,Australia,Climber,"Student, medical",False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/9/84,730.0,False,,,Lost footing at bottom of Horbein Couloir and fell 500m down North Face,Craig Rupert Nottle
-29722,Everest,EVER84306,1984.0,3.0,Jozef,Psotka,M,1934.0,50.0,Czechoslovakia,Climber,"Electronics and physics teacher, high school",False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,10/15/84,,False,,,Apparent fall on Lhotse Face near S Col during descent,Jozef Psotka
-29822,Everest,EVER85104,1985.0,1.0,Juanjo,Navarro,M,,0.0,Spain,Climber,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/12/85,,False,,,Navarro and Zamarbide fell 250m from 7500m,Juanjo Navarro
-29859,Everest,EVER85302,1985.0,3.0,Shinichi,Ishii,M,1952.0,33.0,Japan,Climber,Professional photographer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,9/17/85,,False,,,Avalanche,Shinichi Ishii
-29870,Everest,EVER85303,1985.0,3.0,Ranmit Singh,Bakshi,M,1960.0,24.0,India,Climber,"Lieutenant, Indian Army",False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,10/10/85,,False,,,Exposure and exhaustion on S Col,Ranmit Singh Bakshi
-29882,Everest,EVER85303,1985.0,3.0,Kiran Inder,Kumar,M,1945.0,40.0,India,Deputy Leader,"Major, Indian Army",False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,10/7/85,1530.0,False,,,Fall,Kiran Inder Kumar
-29889,Everest,EVER85303,1985.0,3.0,Vijay Pal Singh,Negi,M,1957.0,28.0,India,Exp Doctor,"Physician, Indian Army",False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,10/10/85,,False,,,Exposure,Vijay Pal Singh Negi
-29893,Everest,EVER85303,1985.0,3.0,Maddirati Uday Bhaskar,Rao,M,1961.0,24.0,India,Climber,"Lieutenant, Indian Army",False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,10/10/85,,False,,,Exposure,Maddirati Uday Bhaskar Rao
-29906,Everest,EVER85303,1985.0,3.0,Jai Vardhan,Bahuguna,M,1948.0,37.0,India,Deputy Leader,"Major, Indian Army",False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,10/10/85,,False,,,Exposure and exhaustion at S Col,Jai Vardhan Bahuguna
-30025,Everest,EVER86203,1986.0,2.0,Victor-Hugo,Trujillo,M,,22.0,Chile,Climber,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,8/16/86,,False,,,Killed by avalanche after corniced lip of crevasse collapsed at N Col,Victor-Hugo Trujillo
-30050,Everest,EVER86302,1986.0,3.0,Simon,Burkhardt,M,1934.0,51.0,Switzerland,Exp Doctor,Physician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,9/28/86,,False,,,Avalanche while descending Lhotse Face (7500m?),Simon Burkhardt
-30068,Everest,EVER86302,1986.0,3.0,Gyalu,Sherpa,M,,25.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/4/86,,False,,,Buried in falling seracs in Khumbu Ice Fall (5600-5800m),Gyalu Sherpa
-30088,Everest,EVER86303,1986.0,3.0,Dawa Norbu,Sherpa,M,1957.0,29.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/17/86,,False,,,Died in avalanche (6700m),Dawa Norbu Sherpa
-30122,Everest,EVER86402,1986.0,4.0,Tsuttin Dorji,Sherpa,M,,21.0,Nepal,H-A Worker,High-altitude porter,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,1/30/87,,False,,,Fall while carrying load up SW Face from C4 to C5,Tsuttin Dorji Sherpa
-30207,Everest,EVER87106,1987.0,1.0,Roger Gough,Marshall,M,1941.0,45.0,Canada,Leader,Writer,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,5/21/87,1000.0,False,,,Fall (between 9:30-11:10 am),Roger Gough Marshall
-30220,Everest,EVER87301,1987.0,3.0,Masao,Yokoyama,M,,0.0,Japan,Climbing Leader,,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/2/87,,False,,,Drowned in stream between BC and C1,Masao Yokoyama
-30276,Everest,EVER87306,1987.0,3.0,Mangal Singh (Nima),Tamang,M,,30.0,Nepal,H-A Cook,High-altitude porter,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/20/87,,False,,,Avalanche near BC,Mangal Singh (Nima) Tamang
-30414,Everest,EVER88301,1988.0,3.0,Narayan Kumar,Shrestha,M,1960.0,28.0,Nepal,H-A Worker,High-altitude porter,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/21/88,615.0,False,,,Avalanche,Narayan Kumar Shrestha
-30419,Everest,EVER88302,1988.0,3.0,Michel,Parmentier,M,1950.0,38.0,France,Film Team,Television cameraman & journalist,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/20/88,,False,,,,Michel Parmentier
-30514,Everest,EVER88308,1988.0,3.0,Dusan,Becik,M,1954.0,34.0,Czechoslovakia,Climber,Architect,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/17/88,1730.0,False,,,Blown off at SE Ridge? (last contact at 17:30),Dusan Becik
-30515,Everest,EVER88308,1988.0,3.0,Peter,Bozik,M,1954.0,34.0,Czechoslovakia,Climber,Worker on tall buildings,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/17/88,1730.0,False,,,Blown off at SE Ridge? (last contact at 17:30),Peter Bozik
-30518,Everest,EVER88308,1988.0,3.0,Jaroslav,Jasko,M,1961.0,26.0,Czechoslovakia,Climber,Worker,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/17/88,1730.0,False,,,Blown off SE Ridge? (last contact at 17:30),Jaroslav Jasko
-30519,Everest,EVER88308,1988.0,3.0,Jozef,Just,M,1955.0,33.0,Czechoslovakia,Climber,Teacher,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,True,10/17/88,1730.0,False,,,Blown off SE Ridge? (last contact at 17:30),Jozef Just
-30535,Everest,EVER88310,1988.0,3.0,Pasang Temba,Sherpa,M,,30.0,Nepal,H-A Worker,High-altitude porter,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,10/13/88,,False,,,Probably by fall on descent near S Summit after possible summit success (in afternoon),Pasang Temba Sherpa
-30536,Everest,EVER88310,1988.0,3.0,Lhakpa Sonam,Sherpa,M,,30.0,Nepal,H-A Worker,High-altitude porter,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,10/13/88,,False,,,Probably by fall on descent after waiting at 8500m for other Sherpa to summit (in afternoon),Lhakpa Sonam Sherpa
-30560,Everest,EVER88401,1988.0,4.0,Lhakpa Dorje (Ang Lhakpa),Sherpa,M,,29.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,12/23/88,800.0,False,,,"Cerebral thrombosis after injuring head in fall (fell at 8700m, died at 7300m at 7 am next morning)",Lhakpa Dorje (Ang Lhakpa) Sherpa
-30592,Everest,EVER89101,1989.0,1.0,Phu Dorje,Sherpa,M,1962.0,26.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/16/89,1600.0,False,,,"Died from fall on descent (8400-8800m, late afternoon, perhaps 4-5 pm)",Phu Dorje Sherpa
-30605,Everest,EVER89103,1989.0,1.0,Eugeniusz (Genek),Chrobak,M,1939.0,49.0,Poland,Leader,Chemical engineer,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/27/89,1300.0,False,,,Avalanche on Khumbutse,Eugeniusz (Genek) Chrobak
-30608,Everest,EVER89103,1989.0,1.0,Miroslaw,Falco-Dasal,M,1952.0,36.0,Poland,Climber,"Engineer, geophysical",False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,5/27/89,1300.0,False,,,Avalanche on Khumbutse,Miroslaw Falco-Dasal
-30609,Everest,EVER89103,1989.0,1.0,Miroslaw,Gardzielewski,M,1953.0,35.0,Poland,Climber,Electrical engineer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,5/27/89,1300.0,False,,,Avalanche on Khumbutse,Miroslaw Gardzielewski
-30611,Everest,EVER89103,1989.0,1.0,Zygmunt Andrzej (Zyga),Heinrich,M,1937.0,51.0,Poland,Climber,Civil engineer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/27/89,1300.0,False,,,Avalanche on Khumbutse,Zygmunt Andrzej (Zyga) Heinrich
-30617,Everest,EVER89103,1989.0,1.0,Waclaw,Otreba,M,1947.0,41.0,Poland,Climber,Electrical engineer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/27/89,1300.0,False,,,Avalanche on Khumbutse,Waclaw Otreba
-30644,Everest,EVER89105,1989.0,1.0,Dimitar,Ilievski,M,1953.0,35.0,Yugoslavia,Climber,Auto mechanic,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/10/89,2000.0,False,,,"Fall (disappeared at 8500m late evening on descent, perhaps 7-10 pm)",Dimitar Ilievski
-30894,Everest,EVER89401,1989.0,4.0,Ang Phinjo,Sherpa,M,,42.0,Nepal,H-A Worker,High-altitude porter,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,12/12/90,1505.0,False,,,Altitude sickness,Ang Phinjo Sherpa
-31027,Everest,EVER90303,1990.0,3.0,Sang-Hun,Ham,M,1963.0,27.0,S Korea,Climber,Office worker,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,10/7/90,1700.0,False,,,Fall (from above C4 near S Summit in late afternoon) (last seen by French at 4 pm),Sang-Hun Ham
-31068,Everest,EVER90306,1990.0,3.0,Rafael,Gomez-Menor Palacios,M,1966.0,24.0,Spain,Climber,Geology student,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,9/12/90,,False,,,,Rafael Gomez-Menor Palacios
-31079,Everest,EVER90306,1990.0,3.0,Ang Sona,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,9/12/90,,False,,,,Ang Sona Sherpa
-31080,Everest,EVER90306,1990.0,3.0,Badri,Nath,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,9/12/90,,False,,,,Badri Nath
-31280,Everest,EVER91113,1991.0,1.0,Ruediger,Lang,M,1956.0,35.0,Germany,Climber,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/4/91,,False,,,Exhaustion & frozen to death,Ruediger Lang
-31310,Everest,EVER91116,1991.0,1.0,Junichi,Futagami,M,1951.0,39.0,Japan,Climber,Salesman,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True,5/27/91,1330.0,False,,,Fall in heavy fog from near summit (between 1-2 pm),Junichi Futagami
-31533,Everest,EVER92103,1992.0,1.0,Raymond,Jacob,M,1966.0,26.0,India,Climber,Member of border security forces,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,5/2/92,600.0,False,,,Died early morning after being found barely alive from all-night exposure,Raymond Jacob
-31536,Everest,EVER92103,1992.0,1.0,Deepak,Kulkarni,M,1960.0,31.0,India,Leader,Radiologist,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/2/92,600.0,False,,,Died early morning after being found barely alive from all-night exposure,Deepak Kulkarni
-31669,Everest,EVER92113,1992.0,1.0,Manabu,Hoshi,M,,28.0,Japan,Climber,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,5/23/92,,False,,,,Manabu Hoshi
-31909,Everest,EVER93104,1993.0,1.0,Jin-Seob,An,M,1968.0,25.0,S Korea,Climber,Physical education student,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/17/93,930.0,False,,,Fell on descent from C4 (between 9-10 am),Jin-Seob An
-31914,Everest,EVER93104,1993.0,1.0,Won-Woo,Nam,M,1965.0,27.0,S Korea,Climber,Farmer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/17/93,,False,,,,Won-Woo Nam
-32005,Everest,EVER93110,1993.0,1.0,Lobsang Tshering,Bhotia,M,1952.0,40.0,India,Climber,Alpinist,False,False,False,False,False,False,True,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/10/93,,False,,,,Lobsang Tshering Bhotia
-32014,Everest,EVER93111,1993.0,1.0,Pasang Lhamu,Sherpa,F,1962.0,30.0,Nepal,Leader,Housewife,True,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,4/23/93,730.0,False,,,Died of exhaustion and exposure early morning (last seen alive about 7 am),Pasang Lhamu Sherpa
-32017,Everest,EVER93111,1993.0,1.0,Sonam Tshering,Sherpa,M,,33.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,4/23/93,730.0,False,,,Died from fall down East Face? (last seen alive early morning about 7 am),Sonam Tshering Sherpa
-32178,Everest,EVER93307,1993.0,3.0,Karl Gordon,Henize,M,1926.0,66.0,USA,Research,NASA astronaut and technician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/5/93,,False,,,Died of pulmonary edema below ABC (early hours of 5 Oct),Karl Gordon Henize
-32237,Everest,EVER94103,1994.0,1.0,Michael Anthony,Rheinberger,M,1940.0,53.0,Australia,Climber,Electrical engineer,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/27/94,,False,,,Died (delirious and blind) just below Second Step (died night of 27/28 May),Michael Anthony Rheinberger
-32273,Everest,EVER94106,1994.0,1.0,Fang-Fang (Norman),Shih,M,1967.0,27.0,Taiwan,Climber,Tour leader,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,True,False,False,False,True,5/9/94,1200.0,False,,,Died of exhaustion after descending Great Couloir by mistake,Fang-Fang (Norman) Shih
-32316,Everest,EVER94109,1994.0,1.0,Giuseppe,Vigani,M,1951.0,43.0,Italy,Leader,Electrical technician,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,5/15/94,,False,,,,Giuseppe Vigani
-32675,Everest,EVER95302,1995.0,3.0,Xavier,Lamas Miralles,M,1963.0,32.0,Spain,Exp Doctor,Physician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,,,False,,,Killed by avalanche while acclimatizing on nearby Changzheng Peak (north of Everest) (late August),Xavier Lamas Miralles
-32706,Everest,EVER95305,1995.0,3.0,Jangbu,Sherpa,M,1967.0,28.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,10/14/95,,False,,,,Jangbu Sherpa
-32717,Everest,EVER96101,1996.0,1.0,Yu-Nan,Chen,M,1959.0,36.0,Taiwan,Climber,Steelworker,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,5/9/96,600.0,False,,,Slipped and fell 25m early morning hours at C3 while 'heeding call of nature' and died later at C2 from injuries sustained,Yu-Nan Chen
-32785,Everest,EVER96108,1996.0,1.0,Bruce,Herrod,M,1958.0,37.0,UK,Climber,Photographer & alpine guide,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/25/96,1800.0,False,,,Died at Hillary Step on descent (later found entangled in ropes) (estimate around 6 pm),Bruce Herrod
-32813,Everest,EVER96110,1996.0,1.0,Dorje Morup,,M,1948.0,47.0,India,Climber,ITBP personnel,False,False,False,False,False,False,True,True,False,True,False,False,False,False,True,False,True,False,True,False,True,5/11/96,,False,,,"Died on descent below Second Step (last seen alive by Japanese on morning of 11 May) (probably only reached above 8700m, not summit). Body found by sheltered boulder (now known as 'Green Boots'?)",Dorje Morup nan
-32817,Everest,EVER96110,1996.0,1.0,Tsewang Paljor,,M,1968.0,28.0,India,Climber,ITBP personnel,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,True,False,True,False,True,5/11/96,,False,,,"Died on descent below Second Step (last seen alive by Japanese on morning of 11 May) (probably only reached above 8700m, not summit). Fell down Kangshung Face?",Tsewang Paljor nan
-32834,Everest,EVER96110,1996.0,1.0,Tsewang,Smanla,M,1957.0,38.0,India,Climber,ITBP personnel,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,True,False,True,False,True,5/11/96,,False,,,"Died on descent above Second Step (last seen alive by Japanese on morning of 11 May) (probably only reached above 8700m, not summit)",Tsewang Smanla
-32858,Everest,EVER96113,1996.0,1.0,Scott Eugene,Fischer,M,1955.0,40.0,USA,Leader,Alpine guide,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/11/96,1200.0,False,,,Died of exposure/ams (last seen alive by Sherpa rescue party about 11-12 noon on 11 May very near death),Scott Eugene Fischer
-32880,Everest,EVER96115,1996.0,1.0,Robert Edwin (Rob),Hall,M,1961.0,35.0,New Zealand,Leader,Alpine guide,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/11/96,1700.0,False,,,Died on evening of 11 May of exposure (last contact at 6:20 pm),Robert Edwin (Rob) Hall
-32881,Everest,EVER96115,1996.0,1.0,Douglas (Doug),Hansen,M,1949.0,46.0,USA,Climber,US Postal Service,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/10/96,,False,,,Died during night of 10/11 May of exposure (or possible fall),Douglas (Doug) Hansen
-32882,Everest,EVER96115,1996.0,1.0,Andrew Michael (Andy),Harris,M,1964.0,31.0,New Zealand,Climber,Alpine & skiing guide,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/10/96,,False,,,Disappeared during night of 10/11 May (probable fall),Andrew Michael (Andy) Harris
-32887,Everest,EVER96115,1996.0,1.0,Yasuko,Namba,F,1949.0,47.0,Japan,Climber,Federal Express,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/11/96,300.0,False,,,Died at S Col during early morning hours of 11 May (estimate 2-4 am),Yasuko Namba
-32951,Everest,EVER96122,1996.0,1.0,Reinhard,Wlasich,M,1951.0,45.0,Austria,Climber,Technician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,5/19/96,145.0,False,,,,Reinhard Wlasich
-33061,Everest,EVER96306,1996.0,3.0,Yves,Bouchon,M,1949.0,47.0,France,Climber,Surgeon,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/21/96,,False,,,,Yves Bouchon
-33188,Everest,EVER97108,1997.0,1.0,Nikolai,Chevtchenko,M,1944.0,52.0,Russia,Climber,Alpine instructor,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/7/97,,False,,,Disappeared after summiting (died night of 7/8 May),Nikolai Chevtchenko
-33206,Everest,EVER97108,1997.0,1.0,Ivan,Plotnikov,M,1960.0,36.0,Russia,Climber,Engineer,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/7/97,,False,,,Disappeared after summiting (died night of 7/8 May),Ivan Plotnikov
-33211,Everest,EVER97108,1997.0,1.0,Alexandre,Torochin,M,1951.0,45.0,Russia,Climber,Mountain rescuer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,5/7/97,1400.0,False,,,Fell about 300m from 8500m,Alexandre Torochin
-33248,Everest,EVER97116,1997.0,1.0,Peter Andreas,Kowalzik,M,1967.0,29.0,Germany,Climber,Banker,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/8/97,,False,,,Disappeared on summit attempt (ice axe seen just below Second Step),Peter Andreas Kowalzik
-33272,Everest,EVER97121,1997.0,1.0,Tenzing Nuru,Sherpa,M,,27.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/25/97,,False,,,Disappeared on descent near S Smt (fall?),Tenzing Nuru Sherpa
-33318,Everest,EVER97126,1997.0,1.0,Malcolm (Mal),Duff,M,1953.0,43.0,UK,Leader,Alpinist,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/22/97,,False,,,Died at BC of apparent heart attack night of 22/23 April,Malcolm (Mal) Duff
-33386,Everest,EVER97309,1997.0,3.0,Byung-Soo,Choi,M,1964.0,33.0,S Korea,Climbing Leader,Textile businessman,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/8/97,,False,,,Avalanche enroute to N Col,Byung-Soo Choi
-33474,Everest,EVER98107,1998.0,1.0,Francys,Distefano-Arsentiev,F,1958.0,40.0,USA,Climber,Office worker,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,5/24/98,845.0,False,,,Died in morning of 24 April (reported by Uzbeks to have died around 11 am CST),Francys Distefano-Arsentiev
-33475,Everest,EVER98107,1998.0,1.0,Sergei Anatolievich,Arsentiev,M,1958.0,39.0,Russia,Climber,Carpenter,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,5/23/98,,False,,,Disappeared (while returning to rescue wife?) (fall?),Sergei Anatolievich Arsentiev
-33659,Everest,EVER98125,1998.0,1.0,Mark Howard,Jennings,M,1948.0,49.0,UK,Leader,Financial services manager,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/26/98,,False,,,Died morning just 100m below C4 (unclipped himself from fixed rope and layed down and died),Mark Howard Jennings
-33705,Everest,EVER98132,1998.0,1.0,Roger,Buick,M,1946.0,52.0,New Zealand,Leader,Ski travel company director,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/26/98,,False,,,Died of exposure,Roger Buick
-33714,Everest,EVER34101,1934.0,1.0,Maurice,Wilson,M,1898.0,36.0,UK,Leader,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/1/34,,False,,,Wilson died of exposure and exhaustion,Maurice Wilson
-33748,Everest,EVER69302,1969.0,3.0,Phu Dorje,Sherpa,M,1937.0,32.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,10/18/69,,False,,,Fell into crevasse opened up by an avalanche in Khumbu Icefall,Phu Dorje Sherpa
-33790,Everest,EVER72301,1972.0,3.0,Tony,Tighe,M,,0.0,Australia,BC Manager,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,11/16/72,1300.0,False,,,Icefall collapse just after mid-day,Tony Tighe
-33793,Everest,EVER73301,1973.0,3.0,Jangbu,Sherpa,M,,28.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/12/73,,False,,,,Jangbu Sherpa
-33794,Everest,EVER74301,1974.0,3.0,Nima Wangchu,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/9/74,1910.0,False,,,Killed by avalanche in C1,Nima Wangchu Sherpa
-33795,Everest,EVER74301,1974.0,3.0,Pemba Dorje,Sherpa,M,,24.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/9/74,1910.0,False,,,Killed by avalanche in C2,Pemba Dorje Sherpa
-33796,Everest,EVER74301,1974.0,3.0,Nawang Lotuk,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/9/74,1910.0,False,,,Killed by avalanche in C2,Nawang Lotuk Sherpa
-33797,Everest,EVER74301,1974.0,3.0,Lhakpa,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/9/74,1910.0,False,,,Killed by avalanche in C2,Lhakpa Sherpa
-33798,Everest,EVER74301,1974.0,3.0,Sanu Wangel,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/9/74,1910.0,False,,,Killed by avalanche in C2,Sanu Wangel Sherpa
-33825,Everest,EVER22101,1922.0,1.0,Norbu,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/7/22,1330.0,False,,,Avalanche below N Col,Norbu Sherpa
-33826,Everest,EVER22101,1922.0,1.0,Lhakpa,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/7/22,1330.0,False,,,Avalanche below N Col,Lhakpa Sherpa
-33827,Everest,EVER22101,1922.0,1.0,Pasang,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/7/22,1330.0,False,,,Avalanche below N Col,Pasang Sherpa
-33828,Everest,EVER22101,1922.0,1.0,Pema,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/7/22,1330.0,False,,,Avalanche below N Col,Pema Sherpa
-33829,Everest,EVER22101,1922.0,1.0,Sange,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/7/22,1330.0,False,,,Avalanche below N Col,Sange Sherpa
-33830,Everest,EVER22101,1922.0,1.0,Dorje,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/7/22,1330.0,False,,,Avalanche below N Col,Dorje Sherpa
-33831,Everest,EVER22101,1922.0,1.0,Temba,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/7/22,1330.0,False,,,Avalanche below N Col,Temba Sherpa
-33832,Everest,EVER24101,1924.0,1.0,George Herbert Leigh,Mallory,M,1886.0,37.0,UK,Climber,Schoolmaster at Charterhouse,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,6/8/24,,False,,,Disappeared (fall?) on NE Ridge,George Herbert Leigh Mallory
-33833,Everest,EVER24101,1924.0,1.0,Andrew Comyn (Sandy),Irvine,M,1902.0,22.0,UK,Climber,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,6/8/24,,False,,,Disappeared (fall?) on NE Ridge,Andrew Comyn (Sandy) Irvine
-33834,Everest,EVER24101,1924.0,1.0,Man Bahadur,,M,,0.0,Nepal,H-A Worker,Cobbler,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/25/24,,False,,,Died of pneumonia and frostbite at BC,Man Bahadur nan
-33835,Everest,EVER24101,1924.0,1.0,Shamsher,Pun,M,,0.0,Nepal,Camp Manager,Lance Naike (Gurkha NCO),False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/13/24,,False,,,Died of HACE stroke/brain bloodclot above Rongbuk,Shamsher Pun
-33841,Everest,EVER62101,1962.0,1.0,Nawang Tshering,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/27/62,1600.0,False,,,Struck by falling rock at 4 pm on Apr 27 at 6700m just below C4 (died the morning of Apr 28 at 4 am at C3),Nawang Tshering Sherpa
-33842,Everest,EVER64101,1964.0,1.0,Zhi-Qing,Shou,M,,0.0,China,Climber,Assistant at Nanjin Meteorology Institute,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,False,,,Died of cerebral hemorrhage at North Col in April,Zhi-Qing Shou
-33843,Everest,EVER66101,1966.0,1.0,Gao-Shu,Ma,M,,0.0,China,Climber,Soldier in Tibet Military Command,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,,,False,,,Fell at 7450m on descent from campsite at 7790m in May,Gao-Shu Ma
-33844,Everest,EVER70102,1970.0,1.0,Kyoshi,Narita,M,,28.0,Japan,Climber,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/21/70,2045.0,False,,,Died of heart attack or pulmonary edema during evening meal at C1,Kyoshi Narita
-33845,Everest,EVER70102,1970.0,1.0,Kyak Tsering,Sherpa,M,,30.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/9/70,720.0,False,,,Died of ice serac collapse in Khumbu Icefall,Kyak Tsering Sherpa
-33846,Everest,EVER70101,1970.0,1.0,Nima Norbu,Sherpa,M,,42.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/5/70,700.0,False,,,Icefall collapse in Khumbu Icefall,Nima Norbu Sherpa
-33847,Everest,EVER70101,1970.0,1.0,Nima Dorje,Sherpa,M,,25.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/5/70,700.0,False,,,Icefall collapse in Khumbu Icefall,Nima Dorje Sherpa
-33848,Everest,EVER70101,1970.0,1.0,Tshering Tarke,Sherpa,M,,50.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/5/70,700.0,False,,,Icefall collapse in Khumbu Icefall,Tshering Tarke Sherpa
-33849,Everest,EVER70101,1970.0,1.0,Pasang,Sherpa,M,,44.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/5/70,700.0,False,,,Icefall collapse in Khumbu Icefall,Pasang Sherpa
-33850,Everest,EVER70101,1970.0,1.0,Kunga Norbu,Sherpa,M,,33.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/5/70,700.0,False,,,Icefall collapse in Khumbu Icefall,Kunga Norbu Sherpa
-33851,Everest,EVER70101,1970.0,1.0,Kami Tsering,Sherpa,M,,45.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/5/70,700.0,False,,,Icefall collapse in Khumbu Icefall,Kami Tsering Sherpa
-33854,Everest,EVER71101,1971.0,1.0,Harsh Vardhan,Bahuguna,M,1939.0,31.0,India,Climber (W Ridge),,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/71,1800.0,False,,,Died of exposure during storm in late afternoon while descending from C1,Harsh Vardhan Bahuguna
-33855,Everest,EVER75102,1975.0,1.0,Zong-Yue,Guo,M,,0.0,China,Climber,Deputy political commissar,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/4/75,,False,,,Died in fall resulting from exhaustion & lack of oxygen,Zong-Yue Guo
-33856,Everest,EVER78102,1978.0,1.0,Dawa Nuru,Sherpa,M,,22.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/78,1345.0,False,,,Killed by falling ice in Khumbu Icefall,Dawa Nuru Sherpa
-33857,Everest,EVER78101,1978.0,1.0,Ming-Ji,Shi,M,,0.0,China,Film Team,Cameraman from China News Film Studio,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,False,,,Died of cerebral hemorrhage at 5700m in May,Ming-Ji Shi
-33858,Everest,EVER79302,1979.0,3.0,San,Luo,M,,0.0,China,H-A Assistant,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/12/79,,False,,,,San Luo
-33859,Everest,EVER79302,1979.0,3.0,Nima Tashi,,M,,0.0,China,H-A Assistant,,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/12/79,,False,,,,Nima Tashi nan
-33860,Everest,EVER79302,1979.0,3.0,Hong-Bao,Wang,M,,0.0,China,H-A Assistant,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/12/79,,False,,,,Hong-Bao Wang
-33865,Everest,EVER80103,1980.0,1.0,Akira,Ube,M,1948.0,31.0,Japan,Climber (N Face),,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/2/80,,False,,,Snow avalanche approaching C5 on N Face route,Akira Ube
-33866,Everest,EVER80301,1980.0,3.0,Nawang Kersang,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/6/80,600.0,False,,,Icefall collapse in Khumbu Icefall very early morning (est. 6 am),Nawang Kersang Sherpa
-33877,Everest,EVER82103,1982.0,1.0,Peter David,Boardman,M,1950.0,31.0,UK,Climber,Director of the International School of Mountaineering,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/17/82,,False,,,Disappeared on NE Ridge on May 17,Peter David Boardman
-33878,Everest,EVER82103,1982.0,1.0,Joseph Thomas (Joe),Tasker,M,1948.0,34.0,UK,Climber,Proprietor of a climbing-equipment shop,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/17/82,,False,,,Disappeared on NE Ridge on May 17,Joseph Thomas (Joe) Tasker
-33882,Everest,EVER82301,1982.0,3.0,Nima Dorje,Sherpa,M,,22.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,10/14/82,1030.0,False,,,Fell while descending from summit bid,Nima Dorje Sherpa
-33883,Everest,EVER82301,1982.0,3.0,Lhakpa Tshering,Sherpa,M,,38.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,9/27/82,1330.0,False,,,,Lhakpa Tshering Sherpa
-33885,Everest,EVER82302,1982.0,3.0,Pasang Sana,Sherpa,M,,30.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,8/31/82,530.0,False,,,Killed by avalanche in Khumbu Icefall,Pasang Sana Sherpa
-33886,Everest,EVER82302,1982.0,3.0,Ang Chuldin,Sherpa,M,,20.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,8/31/82,530.0,False,,,Killed by avalanche in Khumbu Icefall,Ang Chuldin Sherpa
-33887,Everest,EVER82302,1982.0,3.0,Dawa Dorje,Sherpa,M,,42.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,8/31/82,530.0,False,,,Killed by avalanche in Khumbu Icefall,Dawa Dorje Sherpa
-33928,Everest,EVER92314,1992.0,3.0,Nun,Thapa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,,,False,,,,Nun Thapa
-33929,Everest,EVER92402,1992.0,4.0,Ang Tshering,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,1/15/93,,False,,,,Ang Tshering Sherpa
-34003,Everest,EVER88101,1988.0,1.0,Hidetaka,Mizukoshi,M,1939.0,48.0,Japan,Exp Doctor (S),Physician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/21/88,1000.0,False,,,Illness at BC (autopsy later determined cerebral hemorrhage),Hidetaka Mizukoshi
-34034,Everest,EVER92111,1992.0,1.0,Sher,Singh,M,,0.0,India,H-A Cook,,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/22/92,1600.0,False,,,,Sher Singh
-34046,Everest,EVER92108,1992.0,1.0,Subba Singh,Tamang,M,,43.0,Nepal,Kitchen Boy,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/11/92,,False,,,Heart attack at BC,Subba Singh Tamang
-34080,Everest,EVER94109,1994.0,1.0,Prem,Thapa,M,,0.0,Nepal,Kitchen Boy,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/6/94,,False,,,Died of AMS at BC,Prem Thapa
-34081,Everest,EVER94303,1994.0,3.0,Mingma Norbu/Nuru,Sherpa,M,,24.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/12/94,1200.0,False,,,,Mingma Norbu/Nuru Sherpa
-34084,Everest,EVER95109,1995.0,1.0,Kami Rita,Sherpa,M,,22.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/6/95,,False,,,Died May 6?,Kami Rita Sherpa
-34085,Everest,EVER95306,1995.0,3.0,Lhakpa Nuru,Sherpa,M,,30.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/10/95,,False,,,,Lhakpa Nuru Sherpa
-34086,Everest,EVER96304,1996.0,3.0,Lobsang Jangbu,Sherpa,M,1971.0,25.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/21/96,,False,,,,Lobsang Jangbu Sherpa
-34087,Everest,EVER96302,1996.0,3.0,Dawa,Sherpa,M,,35.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/21/96,,False,,,,Dawa Sherpa
-34089,Everest,EVER97125,1997.0,1.0,Mingmar (Mingma),Tamang,M,,35.0,Nepal,H-A Worker,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,5/7/97,,False,,,,Mingmar (Mingma) Tamang
-34090,Everest,EVER97104,1997.0,1.0,Nima Rinji,Sherpa,M,,30.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/6/97,,False,,,Fell below C4 while returning to C2 (c7600m?),Nima Rinji Sherpa
-34091,Everest,EVER96113,1996.0,1.0,Nawang Dorje,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/23/96,,False,,,Died in Ktm on June 7 from complications of AMS at C2 on April 23,Nawang Dorje Sherpa
-34110,Everest,EVER93303,1993.0,3.0,Antonio,Miranda,M,1958.0,35.0,Spain,Climber,Does odd jobs (last one was at a petrol pump),False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,10/7/93,,False,,,,Antonio Miranda
-34125,Everest,EVER99104,1999.0,1.0,Pascal,Debrouwer,M,1970.0,29.0,Belgium,Leader,Organizer and guide for travel in mountain areas,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/19/99,,False,,,Fell on descent from summit during night of 18/19 May,Pascal Debrouwer
-34223,Everest,EVER99118,1999.0,1.0,Michael Robert,Matthews,M,1977.0,22.0,UK,Climber,Securities trader,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/13/99,,False,,,Disappeared (probably fell) while descending from summit in afternoon (between S Smt and Balcony),Michael Robert Matthews
-34312,Everest,EVER99131,1999.0,1.0,Tadeusz (Tadek),Kudelski,M,1954.0,44.0,Poland,Climber,Teacher,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/18/99,1700.0,False,,,Disappeared near 2nd Step (probably fell) (last seen rapelling down 2nd Step 4:00-5:00 pm),Tadeusz (Tadek) Kudelski
-34324,Everest,EVER99134,1999.0,1.0,Vasili (Vazyl),Kopytko,M,1964.0,34.0,Ukraine,Climber,Physician,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,5/8/99,,False,,,Disappeared during descent from summit (body found Sept 1999 at 8500m in sleeping position). Died from exposure?,Vasili (Vazyl) Kopytko
-34398,Everest,EVER21101,1921.0,1.0,Alexander Mitchell,Kellas,M,1868.0,52.0,UK,Member,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/5/21,,False,,,Died of illness on approach march (heart failure) near pass to Kampa Dzong,Alexander Mitchell Kellas
-34486,Everest,EVER52301,1952.0,3.0,Mingma Dorje,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/31/52,1000.0,False,,,"Killed by falling ice just above C5 (accident at 10 am, but died later that afternoon from injuries)",Mingma Dorje Sherpa
-34633,Everest,EVER60102,1960.0,1.0,Ji,Wang,M,,0.0,China,Scientific Team,Assistant at Lan Zhou University,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,False,,,Stricken with AMS at 7000m in April 1960; sent down to ABC at 6400m and died,Ji Wang
-35004,Everest,EVER00143,2000.0,1.0,Geng-Hua,Yan,M,1958.0,41.0,China,Leader,,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/21/00,,False,,,"Body found at 8750m (died of exposure, exhaustion, or heart failure?)",Geng-Hua Yan
-35021,Everest,EVER00147,2000.0,1.0,Jeppe,Stoltz,M,1972.0,27.0,Denmark,Climber,Electrical technician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/20/00,630.0,False,,,,Jeppe Stoltz
-35461,Everest,EVER01112,2001.0,1.0,Peter Gerfried,Ganner,M,1944.0,57.0,Austria,Leader,Electronics technician,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/23/01,800.0,False,,,,Peter Gerfried Ganner
-35564,Everest,EVER01126,2001.0,1.0,Mark,Auricht,M,1963.0,37.0,Australia,Climber,Management consultant,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/24/01,700.0,False,,,Died of stroke in C2 morning of 24 May (estimate 6:00-8:00 am),Mark Auricht
-35737,Everest,EVER01148,2001.0,1.0,Aleksei (Alex),Nikiforov,M,1955.0,45.0,Russia,Climber,Bank manager,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/24/01,1700.0,False,,,,Aleksei (Alex) Nikiforov
-35770,Everest,EVER01101,2001.0,1.0,Babu Chiri (Babu Tshering),Sherpa,M,1965.0,35.0,Nepal,H-A Worker,Alpine guide & climber,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/29/01,1600.0,False,,,aka Ang Babu,Babu Chiri (Babu Tshering) Sherpa
-35799,Everest,EVER01303,2001.0,3.0,Santor,Gardos,M,1963.0,38.0,Hungary,Exp Doctor,Physician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,10/17/01,,False,,,"Fell somewhere above Col camp at 7000m (body found 1000m below with tent, thus probably blown off ridge while erecting tent)",Santor Gardos
-35847,Everest,EVER02103,2002.0,1.0,Zoran,Miletic,M,1960.0,41.0,Yugoslavia,Climber,Businessman (agricultural equipment),False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,5/17/02,,False,,,Collapsed (AMS?),Zoran Miletic
-36003,Everest,EVER02139,2002.0,1.0,Peter,Legate,M,1963.0,38.0,UK,Climber,Business manager,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/30/02,630.0,False,,,,Peter Legate
-36115,Everest,EVER92313,1992.0,3.0,Ang Gyalzen,Sherpa,M,,41.0,Nepal,Staff,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,9/9/92,,False,,,Fell into river after leaving BC to return home because he was feeling sick,Ang Gyalzen Sherpa
-36116,Everest,EVER21101,1921.0,1.0,,Unknown,M,,0.0,India,Porter,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,6/30/21,,False,,,Died near Tingri of gastroenteritis (approx. June 30),nan Unknown
-36118,Everest,EVER02301,2002.0,3.0,Marco,Siffredi,M,1979.0,23.0,France,Leader,Professional snowboarder,True,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True,False,False,False,True,9/8/02,1315.0,False,,,Disappeared near 8600m in Hornbein Couloir (probable fall on snowboard descent from summit),Marco Siffredi
-36211,Everest,EVER03105,2003.0,1.0,Bhim Bahadur,Gurung,M,1964.0,38.0,Nepal,Climber,Army sergeant major,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/27/03,,False,,,Fell into crevasse in Icefall (est 5900m),Bhim Bahadur Gurung
-36638,Everest,EVER03161,2003.0,1.0,Jan Krysztof,Liszewski,M,1948.0,55.0,Poland,Leader,Police officer,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/25/03,,False,,,Fell from C2 camp on or about May 25,Jan Krysztof Liszewski
-36758,Everest,EVER03124,2003.0,1.0,Karma Gyalzen,Sherpa,M,,28.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/24/03,1930.0,False,,,Died of pulmonary edema near top of Icefall,Karma Gyalzen Sherpa
-36764,Everest,EVER03114,2003.0,1.0,Arnaud,Saulnier,M,,30.0,France,Assistant Cameraman,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/8/03,,False,,,Died of heart failure at BC night of May 8-9,Arnaud Saulnier
-36778,Everest,EVER75301,1975.0,3.0,Mingma Nuru,Sherpa,M,,0.0,Nepal,Porter,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,8/23/75,,False,,,Fell into glacial stream while ferrying load from Gorak Shep to BC (drowned),Mingma Nuru Sherpa
-36845,Everest,EVER04107,2004.0,1.0,Hristo Ganchev,Hristov,M,1977.0,26.0,Bulgaria,Climber,Student of sculputuring,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,5/20/04,,False,,,"Died in descent near 2nd Step (exhaustion from lack of oxygen, exposure?)",Hristo Ganchev Hristov
-36856,Everest,EVER04109,2004.0,1.0,Mariana Prodanova,Maslarova,F,1961.0,43.0,Bulgaria,Leader,Housewife,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,5/23/04,1730.0,False,,,,Mariana Prodanova Maslarova
-36993,Everest,EVER04131,2004.0,1.0,Shoko,Ota,F,1941.0,63.0,Japan,Climber,Physician,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/20/04,,False,,,,Shoko Ota
-37027,Everest,EVER04142,2004.0,1.0,Joon-Ho,Baek,M,1967.0,36.0,S Korea,Leader,Alpinist,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/18/04,,False,,,Died of exhaustion during rescue attempt of Park and Jang,Joon-Ho Baek
-37028,Everest,EVER04142,2004.0,1.0,Min,Jang,M,1978.0,26.0,S Korea,Climber,University student,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/18/04,,False,,,,Min Jang
-37030,Everest,EVER04142,2004.0,1.0,Mu-Taek,Park,M,1969.0,34.0,S Korea,Climber,Alpinist,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/18/04,,False,,,,Mu-Taek Park
-37162,Everest,EVER04153,2004.0,1.0,Nils P.,Antezana,M,1935.0,69.0,USA,Climber,Clinic owner-manager,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/18/04,,False,,,,Nils P. Antezana
-37436,Everest,EVER05115,2005.0,1.0,Marko,Lihteneker,M,1969.0,35.0,Slovenia,Climber,Physical training schoolteacher,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/21/05,,False,,,Slide on fix rope and hit his head or heart attack,Marko Lihteneker
-37591,Everest,EVER05140,2005.0,1.0,Dieter,Kramer,M,1956.0,49.0,Germany,Climber,Optician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,6/4/05,,False,,,Collapsed of unknown causes (autopsy showed myocardial infarction),Dieter Kramer
-37599,Everest,EVER05142,2005.0,1.0,Sirigereshiva Shankarappa,Chaitanya,M,1973.0,31.0,India,Climber,Airforce squadron leader (engineering branch),False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/30/05,,False,,,Disappeared (presumed fell off ridge) (est. circa 8700m),Sirigereshiva Shankarappa Chaitanya
-37814,Everest,EVER05186,2005.0,1.0,Sean,Egan,M,1942.0,63.0,Canada,Leader,Professor of human kinetics (health),True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/28/05,,False,,,Cardiac arrest at Dhugla,Sean Egan
-37838,Everest,EVER05190,2005.0,1.0,Robert William (Rob),Milne,M,1956.0,48.0,UK,Climber,Computer systems designer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,6/5/05,230.0,False,,,Collapsed due to presumed heart attack just below Balcony,Robert William (Rob) Milne
-37904,Everest,EVER05195,2005.0,1.0,Michael Corey,O'Brien,M,1965.0,39.0,USA,Climber,Driver & bartender,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/2/05,1200.0,False,,,Fell into crevasee in Icefall,Michael Corey O'Brien
-38206,Everest,EVER06135,2006.0,1.0,David W.,Sharp,M,1972.0,34.0,UK,Leader,Teacher,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,True,5/15/06,,False,,,,David W. Sharp
-38209,Everest,EVER06134,2006.0,1.0,Jacques-Hughes,Letrange,M,1967.0,39.0,France,Leader,Real estate agent,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/17/06,1800.0,False,,,,Jacques-Hughes Letrange
-38293,Everest,EVER06146,2006.0,1.0,Vitor,Negrete,M,1967.0,38.0,Brazil,Climber,Food technologist,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,5/19/06,200.0,False,,,,Vitor Negrete
-38466,Everest,EVER06174,2006.0,1.0,Tomas Kenneth,Olsson,M,1976.0,30.0,Sweden,Leader,Skier,True,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True,False,False,False,True,5/16/06,1145.0,False,,,,Tomas Kenneth Olsson
-38531,Everest,EVER06186,2006.0,1.0,Sri,Kishan,M,1979.0,27.0,India,Climber,Soldier,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/14/06,1415.0,False,,,,Sri Kishan
-38575,Everest,EVER06189,2006.0,1.0,Igor,Plyushkin,M,1952.0,54.0,Russia,Climber,Engineer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/22/06,1130.0,False,,,,Igor Plyushkin
-38582,Everest,EVER06189,2006.0,1.0,Thomas,Weber,M,1964.0,41.0,Germany,Climber,Attorney,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/25/06,1000.0,False,,,Collapsed and died from stroke or brain tumor,Thomas Weber
-38695,Everest,EVER06102,2006.0,1.0,Dawa Temba,Sherpa,M,1984.0,21.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/21/06,730.0,False,,,,Dawa Temba Sherpa
-38696,Everest,EVER06102,2006.0,1.0,Lhakpa Tshering/Chhiring,Sherpa,M,1971.0,35.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/21/06,730.0,False,,,,Lhakpa Tshering/Chhiring Sherpa
-38699,Everest,EVER06115,2006.0,1.0,Tenzing Phinzo (Ang Phintso),Sherpa,M,1953.0,53.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/21/06,730.0,False,,,,Tenzing Phinzo (Ang Phintso) Sherpa
-38700,Everest,EVER06143,2006.0,1.0,Tuk Bahadur,Thapa Magar,M,,32.0,Nepal,H-A Worker,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/4/06,2340.0,False,,,"Contracted pulmonary edema at 7000m, later died at base camp",Tuk Bahadur Thapa Magar
-38863,Everest,EVER07172,2007.0,1.0,Hyun-Jo,Lee,M,1973.0,34.0,S Korea,Climber,Salesman for North Face outdoor outfitters,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/16/07,145.0,False,,,,Hyun-Jo Lee
-38865,Everest,EVER07172,2007.0,1.0,Hee-Joon,Oh,M,1970.0,36.0,S Korea,Climber,Alpinist,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/16/07,145.0,False,,,,Hee-Joon Oh
-39177,Everest,EVER07148,2007.0,1.0,Shinichi,Ishii,M,1944.0,63.0,Japan,Climber,Retired computer,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/15/07,,False,,,,Shinichi Ishii
-39449,Everest,EVER07146,2007.0,1.0,Pierangelo,Maurizio,M,1955.0,51.0,Italy,Climber,Alpine guide,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,5/17/07,1500.0,False,,,Estimate time of disappearance about 3 pm,Pierangelo Maurizio
-39634,Everest,EVER07195,2007.0,1.0,Dawa,Sherpa,M,1960.0,46.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/26/07,,False,,,,Dawa Sherpa
-39656,Everest,EVER07161,2007.0,1.0,Yasuhiko,Mochizuki,M,1960.0,47.0,Japan,Climber,Engineer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/16/07,,False,,,,Yasuhiko Mochizuki
-39661,Everest,EVER07161,2007.0,1.0,Libor,Kozak,M,1960.0,47.0,Czech Republic,Climber,Molecular biologist,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/16/07,830.0,False,,,,Libor Kozak
-39849,Everest,EVER08105,2008.0,1.0,Uwe Micha Johannes (Gianni),Goltz,M,1963.0,44.0,Switzerland,Climber,Alpine guide training,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,True,False,True,True,5/22/08,130.0,False,,,,Uwe Micha Johannes (Gianni) Goltz
-41206,Everest,EVER09179,2009.0,1.0,Veslav,Chrzaszcz,M,1961.0,47.0,Czech Republic,Climber,Mining technician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/18/09,1900.0,False,,,,Veslav Chrzaszcz
-41213,Everest,EVER09164,2009.0,1.0,Frank,Ziebarth,M,1980.0,29.0,Germany,Leader,Student,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,5/21/09,,False,,,,Frank Ziebarth
-41250,Everest,EVER09161,2009.0,1.0,Kazi Lama,Sherpa,M,1979.0,29.0,Nepal,Cook,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/11/09,,False,,,"HRA reported acute cardio-pulmonary disease with hypothermia, perhaps induced by alcohol poisoning (methanol tainted alcohol) at base camp",Kazi Lama Sherpa
-41272,Everest,EVER09102,2009.0,1.0,Wen-Hong,Wu,M,,40.0,China,Climber,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/19/09,400.0,False,,,,Wen-Hong Wu
-41823,Everest,EVER11142,2011.0,1.0,Rick Howe,Hitch,M,1956.0,55.0,USA,Climber,Warehouse owner,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/1/11,,False,,,Fatal heart attack,Rick Howe Hitch
-41974,Everest,EVER11167,2011.0,1.0,Takashi,Ozaki,M,1952.0,58.0,Japan,Leader,Alpine guide,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/12/11,1445.0,False,,,,Takashi Ozaki
-42221,Everest,EVER11136,2011.0,1.0,John,Delaney,M,1969.0,42.0,Ireland,Climber,Student,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/21/11,430.0,False,,,,John Delaney
-42303,Everest,EVER09101,2009.0,1.0,Lhakpa Nuru,Sherpa,M,1975.0,33.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/7/09,1030.0,False,,,,Lhakpa Nuru Sherpa
-42407,Everest,EVER10129,2010.0,1.0,Hiroshi,Ogasawara,M,1947.0,62.0,Japan,Leader,Physician,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/25/10,130.0,False,,,Collapsed at 8400m on 24 May 2010 (exhausted or heart-related problem),Hiroshi Ogasawara
-42741,Everest,EVER10171,2010.0,1.0,Peter,Kinloch,M,1981.0,28.0,UK,Climber,Police officer,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/26/10,200.0,False,,,,Peter Kinloch
-43084,Everest,EVER10102,2010.0,1.0,Laszlo Alfred (Konyi),Varkonyi,M,1956.0,53.0,Hungary,Climber,Industrial diver,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/26/10,1200.0,False,,,,Laszlo Alfred (Konyi) Varkonyi
-43259,Everest,EVER11188,2011.0,1.0,Shailendra Kumar,Upadhyay,M,1929.0,81.0,Nepal,Leader,Retired Nepal Foreign Minister,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/9/11,1600.0,False,,,Death due to AMS or heart attack?,Shailendra Kumar Upadhyay
-43549,Everest,EVER12147,2012.0,1.0,Shriya,Shah-Klorfine,F,1979.0,33.0,Canada,Leader,Staff member of Indian herbal remedies company,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/19/12,,False,,,,Shriya Shah-Klorfine
-43770,Everest,EVER12166,2012.0,1.0,Dawa Tenzing (Da Tenzing),Sherpa,M,1970.0,41.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/1/12,,False,,,Collapsed on 1 May due to probable stroke,Dawa Tenzing (Da Tenzing) Sherpa
-43780,Everest,EVER12142,2012.0,1.0,Ramesh Narad,Gulave,M,1979.0,33.0,India,Climber,Official of Pune municipal government,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/20/12,,False,,,"Stroke at BC on April 20 (died in Pune, India on 27 April)",Ramesh Narad Gulave
-43853,Everest,EVER12132,2012.0,1.0,Won-Bin,Song,M,1968.0,44.0,S Korea,Climber,Building construction company,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/19/12,,False,,,,Won-Bin Song
-43919,Everest,EVER12101,2012.0,1.0,Erich Eberhard,Schaaf,M,1950.0,61.0,Germany,Climber,Physician,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/19/12,1500.0,False,,,,Erich Eberhard Schaaf
-43987,Everest,EVER12150,2012.0,1.0,Karsang Namgyal/Namgel,Sherpa,M,1971.0,40.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/17/12,,False,,,Died of alcohol poisoning,Karsang Namgyal/Namgel Sherpa
-43988,Everest,EVER12167,2012.0,1.0,Namgyal Tshering (Namgyal Chhiri),Sherpa,M,1982.0,29.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/21/12,,False,,,,Namgyal Tshering (Namgyal Chhiri) Sherpa
-43989,Everest,EVER12178,2012.0,1.0,Ralf Dieter,Arnold,M,1970.0,41.0,Germany,Leader,Software engineer,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,5/20/12,,False,,,,Ralf Dieter Arnold
-43991,Everest,EVER12179,2012.0,1.0,Juan Jose,Polo Carbayo,M,1969.0,43.0,Spain,Leader,Physician,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/20/12,,False,,,,Juan Jose Polo Carbayo
-43992,Everest,EVER12180,2012.0,1.0,Wen-Yi,Ha,M,1957.0,54.0,China,Leader,,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/19/12,,False,,,,Wen-Yi Ha
-44383,Everest,EVER13156,2013.0,1.0,Namgyal,Sherpa,M,1977.0,35.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/16/13,800.0,False,,,Died of apparent heart attack (est. 8200m),Namgyal Sherpa
-44390,Everest,EVER13158,2013.0,1.0,Alexei,Bolotov,M,1963.0,50.0,Russia,Leader,Metallurgical engineer,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/15/13,,False,,,,Alexei Bolotov
-44696,Everest,EVER13185,2013.0,1.0,Sergey,Ponomarev,M,1969.0,43.0,Russia,Climber,Marketing director,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/5/13,,False,,,Died of apparent heart attack,Sergey Ponomarev
-44817,Everest,EVER13103,2013.0,1.0,Mingma,Sherpa,M,1968.0,44.0,Nepal,Icefall Doctor,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/7/13,,False,,,,Mingma Sherpa
-44825,Everest,EVER13181,2013.0,1.0,Da Rita,Sherpa,M,1976.0,36.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/5/13,,False,,,,Da Rita Sherpa
-44918,Everest,EVER13119,2013.0,1.0,Lobsang,Sherpa,M,,22.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/7/13,,False,,,,Lobsang Sherpa
-44959,Everest,EVER13134,2013.0,1.0,Mohammed Khalid,Hossain,M,1976.0,36.0,Bangladesh,Leader,Cinematographer & director,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,5/21/13,500.0,False,,,Died in tent after descending from summit,Mohammed Khalid Hossain
-44960,Everest,EVER13133,2013.0,1.0,Sung-Ho,Seo,M,1979.0,33.0,S Korea,Climber,Welding engineer,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,5/21/13,500.0,False,,,,Sung-Ho Seo
-45148,Everest,EVER14106,2014.0,1.0,Mingma Nuru,Sherpa,M,1983.0,31.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Mingma Nuru Sherpa
-45149,Everest,EVER14106,2014.0,1.0,Dorje,Sherpa,M,1964.0,49.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Dorje Sherpa
-45150,Everest,EVER14107,2014.0,1.0,Pasang Karma,Sherpa,M,1975.0,38.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Pasang Karma Sherpa
-45151,Everest,EVER14108,2014.0,1.0,Dorje,Khatri,M,1968.0,45.0,Nepal,H-A Worker,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Dorje Khatri
-45152,Everest,EVER14108,2014.0,1.0,Phur Temba,Sherpa,M,1989.0,24.0,Nepal,H-A Worker,,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Phur Temba Sherpa
-45153,Everest,EVER14108,2014.0,1.0,Thendorje (Thendu Dorje),Sherpa,M,1983.0,30.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Thendorje (Thendu Dorje) Sherpa
-45154,Everest,EVER14109,2014.0,1.0,Mingma Tenzing,Sherpa,M,1987.0,26.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/2/14,,False,,,,Mingma Tenzing Sherpa
-45155,Everest,EVER14114,2014.0,1.0,Chhiring Ongchu,Sherpa,M,1980.0,33.0,Nepal,H-A Worker (Cook),,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Chhiring Ongchu Sherpa
-45156,Everest,EVER14114,2014.0,1.0,Lhakpa Tenjing,Sherpa,M,1989.0,24.0,Nepal,H-A Worker (Cook),,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Lhakpa Tenjing Sherpa
-45157,Everest,EVER14114,2014.0,1.0,Phurba Ongyal,Sherpa,M,1988.0,25.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Phurba Ongyal Sherpa
-45439,Everest,EVER14150,2014.0,1.0,Ang Tshiri,Sherpa,M,,60.0,Nepal,H-A Cook,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Ang Tshiri Sherpa
-45440,Everest,EVER14150,2014.0,1.0,Ngima,Sherpa,M,1986.0,27.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Ngima Sherpa
-45442,Everest,EVER14150,2014.0,1.0,Tenzing Chhetar,Sherpa,M,1989.0,25.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Tenzing Chhetar Sherpa
-45532,Everest,EVER14134,2014.0,1.0,Pem Tenji,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Pem Tenji Sherpa
-45561,Everest,EVER14114,2014.0,1.0,Chhewang,Sherpa,M,1995.0,19.0,Nepal,H-A Worker (Cook),,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/1/14,,False,,,Died 1 May 2014 at home in Taksindu from injuries resulting from lightning strike,Chhewang Sherpa
-45754,Everest,EVER15168,2015.0,1.0,Marisa Eve,Girawong,F,1986.0,28.0,USA,Exp Doctor,Physician assistant,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Marisa Eve Girawong
-45755,Everest,EVER15159,2015.0,1.0,Chhimi Dawa,Sherpa,M,1967.0,47.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Chhimi Dawa Sherpa
-45756,Everest,EVER15159,2015.0,1.0,Dawa Chhiri,Sherpa,M,1989.0,25.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Dawa Chhiri Sherpa
-45757,Everest,EVER15159,2015.0,1.0,Jangbu,Sherpa,M,1961.0,53.0,Nepal,BC Cook,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,Died 30 April in Kathmandu from injuries suffered from avalanche,Jangbu Sherpa
-45758,Everest,EVER15159,2015.0,1.0,Maila,Rai,M,1973.0,41.0,Nepal,BC Kitchen Staff,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Maila Rai
-45759,Everest,EVER15159,2015.0,1.0,Pemba,Sherpa,M,1996.0,19.0,Nepal,BC Cook,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Pemba Sherpa
-45760,Everest,EVER15159,2015.0,1.0,Pemba Yishi (Hissi),Sherpa,M,1982.0,33.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Pemba Yishi (Hissi) Sherpa
-45777,Everest,EVER15125,2015.0,1.0,Daniel Paul (Dan),Fredinberg,M,1981.0,33.0,USA,Climber,Google executive,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1150.0,False,,,,Daniel Paul (Dan) Fredinberg
-45866,Everest,EVER15161,2015.0,1.0,Lhakpa Chhiring,Sherpa,M,1982.0,33.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Lhakpa Chhiring Sherpa
-45867,Everest,EVER15161,2015.0,1.0,Renu,Fotedar,F,1955.0,59.0,Australia,Member,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1150.0,False,,,,Renu Fotedar
-46101,Everest,EVER15154,2015.0,1.0,Tenjin,Bhote,M,1985.0,29.0,Nepal,H-A Worker,,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/24/15,1155.0,False,,,,Tenjin Bhote
-46102,Everest,EVER15154,2015.0,1.0,Pasang Temba,Sherpa,M,1952.0,62.0,Nepal,BC Kitchen Staff,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Pasang Temba Sherpa
-46103,Everest,EVER15154,2015.0,1.0,Krishna Kumar Kulung,Rai,M,1982.0,32.0,Nepal,BC Kitchen Staff,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Krishna Kumar Kulung Rai
-46239,Everest,EVER15162,2015.0,1.0,Shiva Kumar,Shrestha,M,1989.0,25.0,Nepal,Kitchen Staff,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/25/15,1155.0,False,,,,Shiva Kumar Shrestha
-46425,Everest,EVER14146,2014.0,1.0,Aash Bahadur,Gurung,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Aash Bahadur Gurung
-46426,Everest,EVER14134,2014.0,1.0,Ang Kazi (Ankaji),Sherpa,M,1978.0,35.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,4/18/14,645.0,False,,,,Ang Kazi (Ankaji) Sherpa
-46538,Everest,EVER16105,2016.0,1.0,Eric Ary,Arnold,M,1980.0,36.0,Netherlands,Climber,City traffic planner,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/20/16,900.0,False,,,,Eric Ary Arnold
-46542,Everest,EVER16105,2016.0,1.0,Maria Elizabeth,Strydom,F,1981.0,34.0,Australia,Climber,University professor,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/21/16,1030.0,False,,,,Maria Elizabeth Strydom
-47039,Everest,EVER16148,2016.0,1.0,Paresh Chandra,Nath,M,1958.0,58.0,India,Leader,Mountaineering equipment seller,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/21/16,,False,,,,Paresh Chandra Nath
-47040,Everest,EVER16148,2016.0,1.0,Goutam,Ghosh,M,1966.0,50.0,India,Climber,Assistant sub-inspector,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/21/16,,False,,,,Goutam Ghosh
-47041,Everest,EVER16148,2016.0,1.0,Subhas,Paul,M,1972.0,43.0,India,Climber,Driver,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/21/16,,False,,,Died later in descent at C3 next day,Subhas Paul
-47739,Everest,EVER17120,2017.0,1.0,Roland Anthony,Yearwood,M,1966.0,50.0,USA,Climber,Physician,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/20/17,2359.0,False,,,Died of HACE,Roland Anthony Yearwood
-47885,Everest,EVER17145,2017.0,1.0,Vladimir (Vlado),Strba,M,1968.0,48.0,Slovakia,Leader,Alpine guide,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/21/17,1700.0,False,,,,Vladimir (Vlado) Strba
-47887,Everest,EVER17111,2017.0,1.0,Goht Khuber,Rai,M,,0.0,Nepal,Exp Cook,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/27/17,,False,,,Died of a stroke/heart failure,Goht Khuber Rai
-47888,Everest,EVER17147,2017.0,1.0,Min Bahadur,Sherchan,M,1931.0,85.0,Nepal,Leader,Retired British Gurkha soldier,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/6/17,1714.0,False,,,Died of apparent heart attack,Min Bahadur Sherchan
-47890,Everest,EVER17148,2017.0,1.0,Ravi,Kumar,M,1990.0,26.0,India,Leader,Student,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/20/17,2000.0,False,,,,Ravi Kumar
-48212,Everest,EVER17187,2017.0,1.0,Francesco Enrico (Frank),Marchetti,M,1963.0,53.0,Australia,Leader,Teacher for engineer trades,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/21/17,,False,,,Died from AMS and/or heart attack,Francesco Enrico (Frank) Marchetti
-48482,Everest,EVER18110,2018.0,1.0,Georgi,Petkov,M,1956.0,62.0,Macedonia,Climber,Physician (specializes in infectious diseases),False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/20/18,1400.0,False,,,,Georgi Petkov
-48619,Everest,EVER18121,2018.0,1.0,Lama Babu,Sherpa,M,1969.0,48.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/14/18,,False,,,,Lama Babu Sherpa
-48652,Everest,EVER18124,2018.0,1.0,Damai Sarki,Sherpa,M,1988.0,30.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/21/18,1700.0,False,,,Fatal crevasse fall at C2,Damai Sarki Sherpa
-48967,Everest,EVER18159,2018.0,1.0,Nobukazu,Kuriki,M,1982.0,35.0,Japan,Leader,Alpinist,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,5/20/18,2330.0,False,,,,Nobukazu Kuriki
-49071,Everest,EVER18166,2018.0,1.0,Pasang Nuru,Sherpa,M,1977.0,40.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/17/18,,False,,,,Pasang Nuru Sherpa
-49697,Everest,EVER19114,2019.0,1.0,Robin Haynes,Fisher,M,1975.0,44.0,UK,Climber,IT engineer,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/25/19,,False,,,,Robin Haynes Fisher
-49741,Everest,EVER19117,2019.0,1.0,Christopher Jon,Kulish,M,1957.0,62.0,USA,Climber,Attorney,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/27/19,1600.0,False,,,,Christopher Jon Kulish
-49808,Everest,EVER19118,2019.0,1.0,Ravi,Thakur,M,1991.0,27.0,India,Climber,Software engineer,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/16/19,1100.0,False,,,,Ravi Thakur
-49839,Everest,EVER19119,2019.0,1.0,Seamus Sean,Lawless,M,1979.0,39.0,Ireland,Climber,Professor,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/16/19,1600.0,False,,,,Seamus Sean Lawless
-49952,Everest,EVER19126,2019.0,1.0,Kalpana,Dash,F,1966.0,52.0,India,Climber,Advocate,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/23/19,,False,,,,Kalpana Dash
-49975,Everest,EVER19128,2019.0,1.0,Donald Lynn,Cash,M,1964.0,54.0,USA,Climber,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/22/19,,False,,,,Donald Lynn Cash
-50023,Everest,EVER19133,2019.0,1.0,Anjali Sharad,Kulkarni,F,1965.0,53.0,India,Climber,Advertising agency owner,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/22/19,,False,,,,Anjali Sharad Kulkarni
-50058,Everest,EVER19138,2019.0,1.0,Nihal Ashpak,Bagwan,M,1992.0,26.0,India,Climber,Student,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/23/19,,False,,,,Nihal Ashpak Bagwan
-50071,Everest,EVER19139,2019.0,1.0,Dhruba,Bista,M,1986.0,32.0,Nepal,H-A Worker,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/24/19,,False,,,,Dhruba Bista
-50245,Everest,EVER19160,2019.0,1.0,Ernst,Landgraf,M,1954.0,64.0,Austria,Climber,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/23/19,,False,,,,Ernst Landgraf
-50415,Everest,EVER19173,2019.0,1.0,Kevin Gerard,Hynes,M,1963.0,56.0,Ireland,Climber,Plasterer,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/23/19,,False,,,,Kevin Gerard Hynes
-50805,Everest,EVER21109,2021.0,1.0,Pemba Tashi,Sherpa,M,1993.0,27.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/18/21,,False,,,,Pemba Tashi Sherpa
-50856,Everest,EVER21112,2021.0,1.0,Wang Dorchi,Sherpa,M,,0.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/23/21,,False,,,,Wang Dorchi Sherpa
-51049,Everest,EVER21125,2021.0,1.0,Puwei,Liu,M,1966.0,54.0,USA,Climber,Research chemist,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,5/12/21,,False,,,,Puwei Liu
-51065,Everest,EVER21125,2021.0,1.0,Abdul Waheed,Waraich,M,1980.0,41.0,Switzerland,Climber,,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/12/21,,False,,,,Abdul Waheed Waraich
-51149,Everest,EVER21128,2021.0,1.0,Lhakpa Nuru,Sherpa,M,1978.0,42.0,Nepal,H-A Worker,,False,False,False,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,5/29/21,,False,,,"Rescued from BC on 29 May, died on 3 June in Ktmdu from HAPE",Lhakpa Nuru Sherpa
+,CLIMBER,MYEAR,SEX,CITIZEN,SHERPA,DEATHNOTE
+28728,John Edgar (Jake) Breitenbach,1963.0,M,USA,non-sherpa,Killed by ice collapse in Khumbu Icefall
+28975,Gerard Devouassoux,1974.0,M,France,non-sherpa,Killed by avalanche in C2
+29012,Michael (Mick) Burke,1975.0,M,UK,non-sherpa,Probable fall near summit (estimate around 2 pm)
+29064,Terry Thompson,1976.0,M,UK,non-sherpa,
+29183,Ang Phu Sherpa,1979.0,M,Nepal,sherpa,
+29186,Raymond Edward (Ray) Genet,1979.0,M,USA,non-sherpa,Died of exhaustion and exposure in snow cave biv after descent during night of 2/3 Oct
+29189,Hannelore Schmatz,1979.0,F,W Germany,non-sherpa,Died of exhaustion and exposure on descent (estimate about 7 am 3 Oct)
+29276,Mario (Franco) Piana,1980.0,M,Italy,non-sherpa,Ice avalanche/collapse above C2
+29313,Noboru Takenaka,1980.0,M,Japan,non-sherpa,
+29411,Mary Francis (Marty) Hoey,1982.0,F,USA,non-sherpa,
+29440,George Blair Griffiths,1982.0,M,Canada,non-sherpa,Killed in Khumbu Icefall by collapsing ice serac (5600-5800m)
+29467,Yasuo Kato,1982.0,M,Japan,non-sherpa,Disappeared - blown off by wind?
+29468,Toshiaki Kobayashi,1982.0,M,Japan,non-sherpa,Disappeared - blown off by wind?
+29555,Pasang Temba Sherpa,1983.0,M,Nepal,sherpa,Fall in late afternoon in descent from summit attempt (not the Pasang Temba from Ghat) (estimate 5-6 pm)
+29557,Hironobu Kamuro,1983.0,M,Japan,non-sherpa,Fall? (disappeared) (JAC estimates 6 pm)
+29558,Hiroshi Yoshino,1983.0,M,Japan,non-sherpa,Fall? (disappeared) (JAC estimates 6 am after all-night biv)
+29613,Ang Rinji Sherpa,1984.0,M,Nepal,sherpa,Avalanche from Lho La
+29614,Jangbir Rai,1984.0,M,Nepal,non-sherpa,Pulmonary edema at Lobuche on return
+29636,Christo Ivanov Prodanov,1984.0,M,Bulgaria,non-sherpa,Exposure and exhaustion on descent from summit (died during overnight bivouac?); body never found
+29645,Anthony Mark (Tony) Swierzy,1984.0,M,UK,non-sherpa,
+29658,Yogendra Bahadur Thapa,1984.0,M,Nepal,non-sherpa,"Fall (c8400m)? (last contact 9 am, estimate fall about 10 am)"
+29659,Ang Dorje Sherpa,1984.0,M,Nepal,sherpa,"Fall (c8400m)? (last contact 9 am, estimate fall about 10 am)"
+29692,William Robert (Fred) From,1984.0,M,Australia,non-sherpa,Fell at bottom of Hornbein Couloir after returning to scene of Nottle's fall to render assistance
+29697,Craig Rupert Nottle,1984.0,M,Australia,non-sherpa,Lost footing at bottom of Horbein Couloir and fell 500m down North Face
+29722,Jozef Psotka,1984.0,M,Czechoslovakia,non-sherpa,Apparent fall on Lhotse Face near S Col during descent
+29822,Juanjo Navarro,1985.0,M,Spain,non-sherpa,Navarro and Zamarbide fell 250m from 7500m
+29859,Shinichi Ishii,1985.0,M,Japan,non-sherpa,Avalanche
+29870,Ranmit Singh Bakshi,1985.0,M,India,non-sherpa,Exposure and exhaustion on S Col
+29882,Kiran Inder Kumar,1985.0,M,India,non-sherpa,Fall
+29889,Vijay Pal Singh Negi,1985.0,M,India,non-sherpa,Exposure
+29893,Maddirati Uday Bhaskar Rao,1985.0,M,India,non-sherpa,Exposure
+29906,Jai Vardhan Bahuguna,1985.0,M,India,non-sherpa,Exposure and exhaustion at S Col
+30025,Victor-Hugo Trujillo,1986.0,M,Chile,non-sherpa,Killed by avalanche after corniced lip of crevasse collapsed at N Col
+30050,Simon Burkhardt,1986.0,M,Switzerland,non-sherpa,Avalanche while descending Lhotse Face (7500m?)
+30068,Gyalu Sherpa,1986.0,M,Nepal,sherpa,Buried in falling seracs in Khumbu Ice Fall (5600-5800m)
+30088,Dawa Norbu Sherpa,1986.0,M,Nepal,sherpa,Died in avalanche (6700m)
+30122,Tsuttin Dorji Sherpa,1986.0,M,Nepal,sherpa,Fall while carrying load up SW Face from C4 to C5
+30207,Roger Gough Marshall,1987.0,M,Canada,non-sherpa,Fall (between 9:30-11:10 am)
+30220,Masao Yokoyama,1987.0,M,Japan,non-sherpa,Drowned in stream between BC and C1
+30276,Mangal Singh (Nima) Tamang,1987.0,M,Nepal,non-sherpa,Avalanche near BC
+30414,Narayan Kumar Shrestha,1988.0,M,Nepal,non-sherpa,Avalanche
+30419,Michel Parmentier,1988.0,M,France,non-sherpa,
+30514,Dusan Becik,1988.0,M,Czechoslovakia,non-sherpa,Blown off at SE Ridge? (last contact at 17:30)
+30515,Peter Bozik,1988.0,M,Czechoslovakia,non-sherpa,Blown off at SE Ridge? (last contact at 17:30)
+30518,Jaroslav Jasko,1988.0,M,Czechoslovakia,non-sherpa,Blown off SE Ridge? (last contact at 17:30)
+30519,Jozef Just,1988.0,M,Czechoslovakia,non-sherpa,Blown off SE Ridge? (last contact at 17:30)
+30535,Pasang Temba Sherpa,1988.0,M,Nepal,sherpa,Probably by fall on descent near S Summit after possible summit success (in afternoon)
+30536,Lhakpa Sonam Sherpa,1988.0,M,Nepal,sherpa,Probably by fall on descent after waiting at 8500m for other Sherpa to summit (in afternoon)
+30560,Lhakpa Dorje (Ang Lhakpa) Sherpa,1988.0,M,Nepal,sherpa,"Cerebral thrombosis after injuring head in fall (fell at 8700m, died at 7300m at 7 am next morning)"
+30592,Phu Dorje Sherpa,1989.0,M,Nepal,sherpa,"Died from fall on descent (8400-8800m, late afternoon, perhaps 4-5 pm)"
+30605,Eugeniusz (Genek) Chrobak,1989.0,M,Poland,non-sherpa,Avalanche on Khumbutse
+30608,Miroslaw Falco-Dasal,1989.0,M,Poland,non-sherpa,Avalanche on Khumbutse
+30609,Miroslaw Gardzielewski,1989.0,M,Poland,non-sherpa,Avalanche on Khumbutse
+30611,Zygmunt Andrzej (Zyga) Heinrich,1989.0,M,Poland,non-sherpa,Avalanche on Khumbutse
+30617,Waclaw Otreba,1989.0,M,Poland,non-sherpa,Avalanche on Khumbutse
+30644,Dimitar Ilievski,1989.0,M,Yugoslavia,non-sherpa,"Fall (disappeared at 8500m late evening on descent, perhaps 7-10 pm)"
+30894,Ang Phinjo Sherpa,1989.0,M,Nepal,sherpa,Altitude sickness
+31027,Sang-Hun Ham,1990.0,M,S Korea,non-sherpa,Fall (from above C4 near S Summit in late afternoon) (last seen by French at 4 pm)
+31068,Rafael Gomez-Menor Palacios,1990.0,M,Spain,non-sherpa,
+31079,Ang Sona Sherpa,1990.0,M,Nepal,sherpa,
+31080,Badri Nath,1990.0,M,Nepal,non-sherpa,
+31280,Ruediger Lang,1991.0,M,Germany,non-sherpa,Exhaustion & frozen to death
+31310,Junichi Futagami,1991.0,M,Japan,non-sherpa,Fall in heavy fog from near summit (between 1-2 pm)
+31533,Raymond Jacob,1992.0,M,India,non-sherpa,Died early morning after being found barely alive from all-night exposure
+31536,Deepak Kulkarni,1992.0,M,India,non-sherpa,Died early morning after being found barely alive from all-night exposure
+31669,Manabu Hoshi,1992.0,M,Japan,non-sherpa,
+31909,Jin-Seob An,1993.0,M,S Korea,non-sherpa,Fell on descent from C4 (between 9-10 am)
+31914,Won-Woo Nam,1993.0,M,S Korea,non-sherpa,
+32005,Lobsang Tshering Bhotia,1993.0,M,India,non-sherpa,
+32014,Pasang Lhamu Sherpa,1993.0,F,Nepal,sherpa,Died of exhaustion and exposure early morning (last seen alive about 7 am)
+32017,Sonam Tshering Sherpa,1993.0,M,Nepal,sherpa,Died from fall down East Face? (last seen alive early morning about 7 am)
+32178,Karl Gordon Henize,1993.0,M,USA,non-sherpa,Died of pulmonary edema below ABC (early hours of 5 Oct)
+32237,Michael Anthony Rheinberger,1994.0,M,Australia,non-sherpa,Died (delirious and blind) just below Second Step (died night of 27/28 May)
+32273,Fang-Fang (Norman) Shih,1994.0,M,Taiwan,non-sherpa,Died of exhaustion after descending Great Couloir by mistake
+32316,Giuseppe Vigani,1994.0,M,Italy,non-sherpa,
+32675,Xavier Lamas Miralles,1995.0,M,Spain,non-sherpa,Killed by avalanche while acclimatizing on nearby Changzheng Peak (north of Everest) (late August)
+32706,Jangbu Sherpa,1995.0,M,Nepal,sherpa,
+32717,Yu-Nan Chen,1996.0,M,Taiwan,non-sherpa,Slipped and fell 25m early morning hours at C3 while 'heeding call of nature' and died later at C2 from injuries sustained
+32785,Bruce Herrod,1996.0,M,UK,non-sherpa,Died at Hillary Step on descent (later found entangled in ropes) (estimate around 6 pm)
+32813,Dorje Morup nan,1996.0,M,India,non-sherpa,"Died on descent below Second Step (last seen alive by Japanese on morning of 11 May) (probably only reached above 8700m, not summit). Body found by sheltered boulder (now known as 'Green Boots'?)"
+32817,Tsewang Paljor nan,1996.0,M,India,non-sherpa,"Died on descent below Second Step (last seen alive by Japanese on morning of 11 May) (probably only reached above 8700m, not summit). Fell down Kangshung Face?"
+32834,Tsewang Smanla,1996.0,M,India,non-sherpa,"Died on descent above Second Step (last seen alive by Japanese on morning of 11 May) (probably only reached above 8700m, not summit)"
+32858,Scott Eugene Fischer,1996.0,M,USA,non-sherpa,Died of exposure/ams (last seen alive by Sherpa rescue party about 11-12 noon on 11 May very near death)
+32880,Robert Edwin (Rob) Hall,1996.0,M,New Zealand,non-sherpa,Died on evening of 11 May of exposure (last contact at 6:20 pm)
+32881,Douglas (Doug) Hansen,1996.0,M,USA,non-sherpa,Died during night of 10/11 May of exposure (or possible fall)
+32882,Andrew Michael (Andy) Harris,1996.0,M,New Zealand,non-sherpa,Disappeared during night of 10/11 May (probable fall)
+32887,Yasuko Namba,1996.0,F,Japan,non-sherpa,Died at S Col during early morning hours of 11 May (estimate 2-4 am)
+32951,Reinhard Wlasich,1996.0,M,Austria,non-sherpa,
+33061,Yves Bouchon,1996.0,M,France,non-sherpa,
+33188,Nikolai Chevtchenko,1997.0,M,Russia,non-sherpa,Disappeared after summiting (died night of 7/8 May)
+33206,Ivan Plotnikov,1997.0,M,Russia,non-sherpa,Disappeared after summiting (died night of 7/8 May)
+33211,Alexandre Torochin,1997.0,M,Russia,non-sherpa,Fell about 300m from 8500m
+33248,Peter Andreas Kowalzik,1997.0,M,Germany,non-sherpa,Disappeared on summit attempt (ice axe seen just below Second Step)
+33272,Tenzing Nuru Sherpa,1997.0,M,Nepal,sherpa,Disappeared on descent near S Smt (fall?)
+33318,Malcolm (Mal) Duff,1997.0,M,UK,non-sherpa,Died at BC of apparent heart attack night of 22/23 April
+33386,Byung-Soo Choi,1997.0,M,S Korea,non-sherpa,Avalanche enroute to N Col
+33474,Francys Distefano-Arsentiev,1998.0,F,USA,non-sherpa,Died in morning of 24 April (reported by Uzbeks to have died around 11 am CST)
+33475,Sergei Anatolievich Arsentiev,1998.0,M,Russia,non-sherpa,Disappeared (while returning to rescue wife?) (fall?)
+33659,Mark Howard Jennings,1998.0,M,UK,non-sherpa,Died morning just 100m below C4 (unclipped himself from fixed rope and layed down and died)
+33705,Roger Buick,1998.0,M,New Zealand,non-sherpa,Died of exposure
+33714,Maurice Wilson,1934.0,M,UK,non-sherpa,Wilson died of exposure and exhaustion
+33748,Phu Dorje Sherpa,1969.0,M,Nepal,sherpa,Fell into crevasse opened up by an avalanche in Khumbu Icefall
+33790,Tony Tighe,1972.0,M,Australia,non-sherpa,Icefall collapse just after mid-day
+33793,Jangbu Sherpa,1973.0,M,Nepal,sherpa,
+33794,Nima Wangchu Sherpa,1974.0,M,Nepal,sherpa,Killed by avalanche in C1
+33795,Pemba Dorje Sherpa,1974.0,M,Nepal,sherpa,Killed by avalanche in C2
+33796,Nawang Lotuk Sherpa,1974.0,M,Nepal,sherpa,Killed by avalanche in C2
+33797,Lhakpa Sherpa,1974.0,M,Nepal,sherpa,Killed by avalanche in C2
+33798,Sanu Wangel Sherpa,1974.0,M,Nepal,sherpa,Killed by avalanche in C2
+33825,Norbu Sherpa,1922.0,M,Nepal,sherpa,Avalanche below N Col
+33826,Lhakpa Sherpa,1922.0,M,Nepal,sherpa,Avalanche below N Col
+33827,Pasang Sherpa,1922.0,M,Nepal,sherpa,Avalanche below N Col
+33828,Pema Sherpa,1922.0,M,Nepal,sherpa,Avalanche below N Col
+33829,Sange Sherpa,1922.0,M,Nepal,sherpa,Avalanche below N Col
+33830,Dorje Sherpa,1922.0,M,Nepal,sherpa,Avalanche below N Col
+33831,Temba Sherpa,1922.0,M,Nepal,sherpa,Avalanche below N Col
+33832,George Herbert Leigh Mallory,1924.0,M,UK,non-sherpa,Disappeared (fall?) on NE Ridge
+33833,Andrew Comyn (Sandy) Irvine,1924.0,M,UK,non-sherpa,Disappeared (fall?) on NE Ridge
+33834,Man Bahadur nan,1924.0,M,Nepal,non-sherpa,Died of pneumonia and frostbite at BC
+33835,Shamsher Pun,1924.0,M,Nepal,non-sherpa,Died of HACE stroke/brain bloodclot above Rongbuk
+33841,Nawang Tshering Sherpa,1962.0,M,Nepal,sherpa,Struck by falling rock at 4 pm on Apr 27 at 6700m just below C4 (died the morning of Apr 28 at 4 am at C3)
+33842,Zhi-Qing Shou,1964.0,M,China,non-sherpa,Died of cerebral hemorrhage at North Col in April
+33843,Gao-Shu Ma,1966.0,M,China,non-sherpa,Fell at 7450m on descent from campsite at 7790m in May
+33844,Kyoshi Narita,1970.0,M,Japan,non-sherpa,Died of heart attack or pulmonary edema during evening meal at C1
+33845,Kyak Tsering Sherpa,1970.0,M,Nepal,sherpa,Died of ice serac collapse in Khumbu Icefall
+33846,Nima Norbu Sherpa,1970.0,M,Nepal,sherpa,Icefall collapse in Khumbu Icefall
+33847,Nima Dorje Sherpa,1970.0,M,Nepal,sherpa,Icefall collapse in Khumbu Icefall
+33848,Tshering Tarke Sherpa,1970.0,M,Nepal,sherpa,Icefall collapse in Khumbu Icefall
+33849,Pasang Sherpa,1970.0,M,Nepal,sherpa,Icefall collapse in Khumbu Icefall
+33850,Kunga Norbu Sherpa,1970.0,M,Nepal,sherpa,Icefall collapse in Khumbu Icefall
+33851,Kami Tsering Sherpa,1970.0,M,Nepal,sherpa,Icefall collapse in Khumbu Icefall
+33854,Harsh Vardhan Bahuguna,1971.0,M,India,non-sherpa,Died of exposure during storm in late afternoon while descending from C1
+33855,Zong-Yue Guo,1975.0,M,China,non-sherpa,Died in fall resulting from exhaustion & lack of oxygen
+33856,Dawa Nuru Sherpa,1978.0,M,Nepal,sherpa,Killed by falling ice in Khumbu Icefall
+33857,Ming-Ji Shi,1978.0,M,China,non-sherpa,Died of cerebral hemorrhage at 5700m in May
+33858,San Luo,1979.0,M,China,non-sherpa,
+33859,Nima Tashi nan,1979.0,M,China,non-sherpa,
+33860,Hong-Bao Wang,1979.0,M,China,non-sherpa,
+33865,Akira Ube,1980.0,M,Japan,non-sherpa,Snow avalanche approaching C5 on N Face route
+33866,Nawang Kersang Sherpa,1980.0,M,Nepal,sherpa,Icefall collapse in Khumbu Icefall very early morning (est. 6 am)
+33877,Peter David Boardman,1982.0,M,UK,non-sherpa,Disappeared on NE Ridge on May 17
+33878,Joseph Thomas (Joe) Tasker,1982.0,M,UK,non-sherpa,Disappeared on NE Ridge on May 17
+33882,Nima Dorje Sherpa,1982.0,M,Nepal,sherpa,Fell while descending from summit bid
+33883,Lhakpa Tshering Sherpa,1982.0,M,Nepal,sherpa,
+33885,Pasang Sana Sherpa,1982.0,M,Nepal,sherpa,Killed by avalanche in Khumbu Icefall
+33886,Ang Chuldin Sherpa,1982.0,M,Nepal,sherpa,Killed by avalanche in Khumbu Icefall
+33887,Dawa Dorje Sherpa,1982.0,M,Nepal,sherpa,Killed by avalanche in Khumbu Icefall
+33928,Nun Thapa,1992.0,M,Nepal,non-sherpa,
+33929,Ang Tshering Sherpa,1992.0,M,Nepal,sherpa,
+34003,Hidetaka Mizukoshi,1988.0,M,Japan,non-sherpa,Illness at BC (autopsy later determined cerebral hemorrhage)
+34034,Sher Singh,1992.0,M,India,non-sherpa,
+34046,Subba Singh Tamang,1992.0,M,Nepal,non-sherpa,Heart attack at BC
+34080,Prem Thapa,1994.0,M,Nepal,non-sherpa,Died of AMS at BC
+34081,Mingma Norbu/Nuru Sherpa,1994.0,M,Nepal,sherpa,
+34084,Kami Rita Sherpa,1995.0,M,Nepal,sherpa,Died May 6?
+34085,Lhakpa Nuru Sherpa,1995.0,M,Nepal,sherpa,
+34086,Lobsang Jangbu Sherpa,1996.0,M,Nepal,sherpa,
+34087,Dawa Sherpa,1996.0,M,Nepal,sherpa,
+34089,Mingmar (Mingma) Tamang,1997.0,M,Nepal,non-sherpa,
+34090,Nima Rinji Sherpa,1997.0,M,Nepal,sherpa,Fell below C4 while returning to C2 (c7600m?)
+34091,Nawang Dorje Sherpa,1996.0,M,Nepal,sherpa,Died in Ktm on June 7 from complications of AMS at C2 on April 23
+34110,Antonio Miranda,1993.0,M,Spain,non-sherpa,
+34125,Pascal Debrouwer,1999.0,M,Belgium,non-sherpa,Fell on descent from summit during night of 18/19 May
+34223,Michael Robert Matthews,1999.0,M,UK,non-sherpa,Disappeared (probably fell) while descending from summit in afternoon (between S Smt and Balcony)
+34312,Tadeusz (Tadek) Kudelski,1999.0,M,Poland,non-sherpa,Disappeared near 2nd Step (probably fell) (last seen rapelling down 2nd Step 4:00-5:00 pm)
+34324,Vasili (Vazyl) Kopytko,1999.0,M,Ukraine,non-sherpa,Disappeared during descent from summit (body found Sept 1999 at 8500m in sleeping position). Died from exposure?
+34398,Alexander Mitchell Kellas,1921.0,M,UK,non-sherpa,Died of illness on approach march (heart failure) near pass to Kampa Dzong
+34486,Mingma Dorje Sherpa,1952.0,M,Nepal,sherpa,"Killed by falling ice just above C5 (accident at 10 am, but died later that afternoon from injuries)"
+34633,Ji Wang,1960.0,M,China,non-sherpa,Stricken with AMS at 7000m in April 1960; sent down to ABC at 6400m and died
+35004,Geng-Hua Yan,2000.0,M,China,non-sherpa,"Body found at 8750m (died of exposure, exhaustion, or heart failure?)"
+35021,Jeppe Stoltz,2000.0,M,Denmark,non-sherpa,
+35461,Peter Gerfried Ganner,2001.0,M,Austria,non-sherpa,
+35564,Mark Auricht,2001.0,M,Australia,non-sherpa,Died of stroke in C2 morning of 24 May (estimate 6:00-8:00 am)
+35737,Aleksei (Alex) Nikiforov,2001.0,M,Russia,non-sherpa,
+35770,Babu Chiri (Babu Tshering) Sherpa,2001.0,M,Nepal,sherpa,aka Ang Babu
+35799,Santor Gardos,2001.0,M,Hungary,non-sherpa,"Fell somewhere above Col camp at 7000m (body found 1000m below with tent, thus probably blown off ridge while erecting tent)"
+35847,Zoran Miletic,2002.0,M,Yugoslavia,non-sherpa,Collapsed (AMS?)
+36003,Peter Legate,2002.0,M,UK,non-sherpa,
+36115,Ang Gyalzen Sherpa,1992.0,M,Nepal,sherpa,Fell into river after leaving BC to return home because he was feeling sick
+36116,nan Unknown,1921.0,M,India,non-sherpa,Died near Tingri of gastroenteritis (approx. June 30)
+36118,Marco Siffredi,2002.0,M,France,non-sherpa,Disappeared near 8600m in Hornbein Couloir (probable fall on snowboard descent from summit)
+36211,Bhim Bahadur Gurung,2003.0,M,Nepal,non-sherpa,Fell into crevasse in Icefall (est 5900m)
+36638,Jan Krysztof Liszewski,2003.0,M,Poland,non-sherpa,Fell from C2 camp on or about May 25
+36758,Karma Gyalzen Sherpa,2003.0,M,Nepal,sherpa,Died of pulmonary edema near top of Icefall
+36764,Arnaud Saulnier,2003.0,M,France,non-sherpa,Died of heart failure at BC night of May 8-9
+36778,Mingma Nuru Sherpa,1975.0,M,Nepal,sherpa,Fell into glacial stream while ferrying load from Gorak Shep to BC (drowned)
+36845,Hristo Ganchev Hristov,2004.0,M,Bulgaria,non-sherpa,"Died in descent near 2nd Step (exhaustion from lack of oxygen, exposure?)"
+36856,Mariana Prodanova Maslarova,2004.0,F,Bulgaria,non-sherpa,
+36993,Shoko Ota,2004.0,F,Japan,non-sherpa,
+37027,Joon-Ho Baek,2004.0,M,S Korea,non-sherpa,Died of exhaustion during rescue attempt of Park and Jang
+37028,Min Jang,2004.0,M,S Korea,non-sherpa,
+37030,Mu-Taek Park,2004.0,M,S Korea,non-sherpa,
+37162,Nils P. Antezana,2004.0,M,USA,non-sherpa,
+37436,Marko Lihteneker,2005.0,M,Slovenia,non-sherpa,Slide on fix rope and hit his head or heart attack
+37591,Dieter Kramer,2005.0,M,Germany,non-sherpa,Collapsed of unknown causes (autopsy showed myocardial infarction)
+37599,Sirigereshiva Shankarappa Chaitanya,2005.0,M,India,non-sherpa,Disappeared (presumed fell off ridge) (est. circa 8700m)
+37814,Sean Egan,2005.0,M,Canada,non-sherpa,Cardiac arrest at Dhugla
+37838,Robert William (Rob) Milne,2005.0,M,UK,non-sherpa,Collapsed due to presumed heart attack just below Balcony
+37904,Michael Corey O'Brien,2005.0,M,USA,non-sherpa,Fell into crevasee in Icefall
+38206,David W. Sharp,2006.0,M,UK,non-sherpa,
+38209,Jacques-Hughes Letrange,2006.0,M,France,non-sherpa,
+38293,Vitor Negrete,2006.0,M,Brazil,non-sherpa,
+38466,Tomas Kenneth Olsson,2006.0,M,Sweden,non-sherpa,
+38531,Sri Kishan,2006.0,M,India,non-sherpa,
+38575,Igor Plyushkin,2006.0,M,Russia,non-sherpa,
+38582,Thomas Weber,2006.0,M,Germany,non-sherpa,Collapsed and died from stroke or brain tumor
+38695,Dawa Temba Sherpa,2006.0,M,Nepal,sherpa,
+38696,Lhakpa Tshering/Chhiring Sherpa,2006.0,M,Nepal,sherpa,
+38699,Tenzing Phinzo (Ang Phintso) Sherpa,2006.0,M,Nepal,sherpa,
+38700,Tuk Bahadur Thapa Magar,2006.0,M,Nepal,non-sherpa,"Contracted pulmonary edema at 7000m, later died at base camp"
+38863,Hyun-Jo Lee,2007.0,M,S Korea,non-sherpa,
+38865,Hee-Joon Oh,2007.0,M,S Korea,non-sherpa,
+39177,Shinichi Ishii,2007.0,M,Japan,non-sherpa,
+39449,Pierangelo Maurizio,2007.0,M,Italy,non-sherpa,Estimate time of disappearance about 3 pm
+39634,Dawa Sherpa,2007.0,M,Nepal,sherpa,
+39656,Yasuhiko Mochizuki,2007.0,M,Japan,non-sherpa,
+39661,Libor Kozak,2007.0,M,Czech Republic,non-sherpa,
+39849,Uwe Micha Johannes (Gianni) Goltz,2008.0,M,Switzerland,non-sherpa,
+41206,Veslav Chrzaszcz,2009.0,M,Czech Republic,non-sherpa,
+41213,Frank Ziebarth,2009.0,M,Germany,non-sherpa,
+41250,Kazi Lama Sherpa,2009.0,M,Nepal,sherpa,"HRA reported acute cardio-pulmonary disease with hypothermia, perhaps induced by alcohol poisoning (methanol tainted alcohol) at base camp"
+41272,Wen-Hong Wu,2009.0,M,China,non-sherpa,
+41823,Rick Howe Hitch,2011.0,M,USA,non-sherpa,Fatal heart attack
+41974,Takashi Ozaki,2011.0,M,Japan,non-sherpa,
+42221,John Delaney,2011.0,M,Ireland,non-sherpa,
+42303,Lhakpa Nuru Sherpa,2009.0,M,Nepal,sherpa,
+42407,Hiroshi Ogasawara,2010.0,M,Japan,non-sherpa,Collapsed at 8400m on 24 May 2010 (exhausted or heart-related problem)
+42741,Peter Kinloch,2010.0,M,UK,non-sherpa,
+43084,Laszlo Alfred (Konyi) Varkonyi,2010.0,M,Hungary,non-sherpa,
+43259,Shailendra Kumar Upadhyay,2011.0,M,Nepal,non-sherpa,Death due to AMS or heart attack?
+43549,Shriya Shah-Klorfine,2012.0,F,Canada,non-sherpa,
+43770,Dawa Tenzing (Da Tenzing) Sherpa,2012.0,M,Nepal,sherpa,Collapsed on 1 May due to probable stroke
+43780,Ramesh Narad Gulave,2012.0,M,India,non-sherpa,"Stroke at BC on April 20 (died in Pune, India on 27 April)"
+43853,Won-Bin Song,2012.0,M,S Korea,non-sherpa,
+43919,Erich Eberhard Schaaf,2012.0,M,Germany,non-sherpa,
+43987,Karsang Namgyal/Namgel Sherpa,2012.0,M,Nepal,sherpa,Died of alcohol poisoning
+43988,Namgyal Tshering (Namgyal Chhiri) Sherpa,2012.0,M,Nepal,sherpa,
+43989,Ralf Dieter Arnold,2012.0,M,Germany,non-sherpa,
+43991,Juan Jose Polo Carbayo,2012.0,M,Spain,non-sherpa,
+43992,Wen-Yi Ha,2012.0,M,China,non-sherpa,
+44383,Namgyal Sherpa,2013.0,M,Nepal,sherpa,Died of apparent heart attack (est. 8200m)
+44390,Alexei Bolotov,2013.0,M,Russia,non-sherpa,
+44696,Sergey Ponomarev,2013.0,M,Russia,non-sherpa,Died of apparent heart attack
+44817,Mingma Sherpa,2013.0,M,Nepal,sherpa,
+44825,Da Rita Sherpa,2013.0,M,Nepal,sherpa,
+44918,Lobsang Sherpa,2013.0,M,Nepal,sherpa,
+44959,Mohammed Khalid Hossain,2013.0,M,Bangladesh,non-sherpa,Died in tent after descending from summit
+44960,Sung-Ho Seo,2013.0,M,S Korea,non-sherpa,
+45148,Mingma Nuru Sherpa,2014.0,M,Nepal,sherpa,
+45149,Dorje Sherpa,2014.0,M,Nepal,sherpa,
+45150,Pasang Karma Sherpa,2014.0,M,Nepal,sherpa,
+45151,Dorje Khatri,2014.0,M,Nepal,non-sherpa,
+45152,Phur Temba Sherpa,2014.0,M,Nepal,sherpa,
+45153,Thendorje (Thendu Dorje) Sherpa,2014.0,M,Nepal,sherpa,
+45154,Mingma Tenzing Sherpa,2014.0,M,Nepal,sherpa,
+45155,Chhiring Ongchu Sherpa,2014.0,M,Nepal,sherpa,
+45156,Lhakpa Tenjing Sherpa,2014.0,M,Nepal,sherpa,
+45157,Phurba Ongyal Sherpa,2014.0,M,Nepal,sherpa,
+45439,Ang Tshiri Sherpa,2014.0,M,Nepal,sherpa,
+45440,Ngima Sherpa,2014.0,M,Nepal,sherpa,
+45442,Tenzing Chhetar Sherpa,2014.0,M,Nepal,sherpa,
+45532,Pem Tenji Sherpa,2014.0,M,Nepal,sherpa,
+45561,Chhewang Sherpa,2014.0,M,Nepal,sherpa,Died 1 May 2014 at home in Taksindu from injuries resulting from lightning strike
+45754,Marisa Eve Girawong,2015.0,F,USA,non-sherpa,
+45755,Chhimi Dawa Sherpa,2015.0,M,Nepal,sherpa,
+45756,Dawa Chhiri Sherpa,2015.0,M,Nepal,sherpa,
+45757,Jangbu Sherpa,2015.0,M,Nepal,sherpa,Died 30 April in Kathmandu from injuries suffered from avalanche
+45758,Maila Rai,2015.0,M,Nepal,non-sherpa,
+45759,Pemba Sherpa,2015.0,M,Nepal,sherpa,
+45760,Pemba Yishi (Hissi) Sherpa,2015.0,M,Nepal,sherpa,
+45777,Daniel Paul (Dan) Fredinberg,2015.0,M,USA,non-sherpa,
+45866,Lhakpa Chhiring Sherpa,2015.0,M,Nepal,sherpa,
+45867,Renu Fotedar,2015.0,F,Australia,non-sherpa,
+46101,Tenjin Bhote,2015.0,M,Nepal,non-sherpa,
+46102,Pasang Temba Sherpa,2015.0,M,Nepal,sherpa,
+46103,Krishna Kumar Kulung Rai,2015.0,M,Nepal,non-sherpa,
+46239,Shiva Kumar Shrestha,2015.0,M,Nepal,non-sherpa,
+46425,Aash Bahadur Gurung,2014.0,M,Nepal,non-sherpa,
+46426,Ang Kazi (Ankaji) Sherpa,2014.0,M,Nepal,sherpa,
+46538,Eric Ary Arnold,2016.0,M,Netherlands,non-sherpa,
+46542,Maria Elizabeth Strydom,2016.0,F,Australia,non-sherpa,
+47039,Paresh Chandra Nath,2016.0,M,India,non-sherpa,
+47040,Goutam Ghosh,2016.0,M,India,non-sherpa,
+47041,Subhas Paul,2016.0,M,India,non-sherpa,Died later in descent at C3 next day
+47739,Roland Anthony Yearwood,2017.0,M,USA,non-sherpa,Died of HACE
+47885,Vladimir (Vlado) Strba,2017.0,M,Slovakia,non-sherpa,
+47887,Goht Khuber Rai,2017.0,M,Nepal,non-sherpa,Died of a stroke/heart failure
+47888,Min Bahadur Sherchan,2017.0,M,Nepal,non-sherpa,Died of apparent heart attack
+47890,Ravi Kumar,2017.0,M,India,non-sherpa,
+48212,Francesco Enrico (Frank) Marchetti,2017.0,M,Australia,non-sherpa,Died from AMS and/or heart attack
+48482,Georgi Petkov,2018.0,M,Macedonia,non-sherpa,
+48619,Lama Babu Sherpa,2018.0,M,Nepal,sherpa,
+48652,Damai Sarki Sherpa,2018.0,M,Nepal,sherpa,Fatal crevasse fall at C2
+48967,Nobukazu Kuriki,2018.0,M,Japan,non-sherpa,
+49071,Pasang Nuru Sherpa,2018.0,M,Nepal,sherpa,
+49697,Robin Haynes Fisher,2019.0,M,UK,non-sherpa,
+49741,Christopher Jon Kulish,2019.0,M,USA,non-sherpa,
+49808,Ravi Thakur,2019.0,M,India,non-sherpa,
+49839,Seamus Sean Lawless,2019.0,M,Ireland,non-sherpa,
+49952,Kalpana Dash,2019.0,F,India,non-sherpa,
+49975,Donald Lynn Cash,2019.0,M,USA,non-sherpa,
+50023,Anjali Sharad Kulkarni,2019.0,F,India,non-sherpa,
+50058,Nihal Ashpak Bagwan,2019.0,M,India,non-sherpa,
+50071,Dhruba Bista,2019.0,M,Nepal,non-sherpa,
+50245,Ernst Landgraf,2019.0,M,Austria,non-sherpa,
+50415,Kevin Gerard Hynes,2019.0,M,Ireland,non-sherpa,
+50805,Pemba Tashi Sherpa,2021.0,M,Nepal,sherpa,
+50856,Wang Dorchi Sherpa,2021.0,M,Nepal,sherpa,
+51049,Puwei Liu,2021.0,M,USA,non-sherpa,
+51065,Abdul Waheed Waraich,2021.0,M,Switzerland,non-sherpa,
+51149,Lhakpa Nuru Sherpa,2021.0,M,Nepal,sherpa,"Rescued from BC on 29 May, died on 3 June in Ktmdu from HAPE"
