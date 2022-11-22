@@ -16,7 +16,7 @@ d3.csv('everest_deaths.csv').then(data => {
     });
 
     // (5) APPEND TO PAGE
-    document.getElementById("chart").appendChild(chart);
+    document.getElementById("beeswarm-chart").appendChild(chart);
 });
 
 // (2) PASTE OBSERVABLE FUNCTION
@@ -38,7 +38,7 @@ function BeeswarmChart(data, {
     padding = 6, // (fixed) padding between the circles
     marginTop = 10, // top margin, in pixels
     marginRight = 20, // right margin, in pixels
-    marginBottom = 30, // bottom margin, in pixels
+    marginBottom = 45, // bottom margin, in pixels
     marginLeft = 20, // left margin, in pixels
     width = 640, // outer width, in pixels
     height, // outer height, in pixels
@@ -130,7 +130,7 @@ function BeeswarmChart(data, {
         .call(xAxis)
         .call(g => g.append("text")
             .attr("x", width)
-            .attr("y", marginBottom - 4)
+            .attr("y", marginBottom -2)
             .attr("fill", "currentColor")
             .attr("text-anchor", "end")
             .text(xLabel));
