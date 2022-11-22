@@ -158,7 +158,7 @@ function BeeswarmChart(data, {
     dot
         .on("mouseover", function (event, i) {
             const d = data[i];
-            d3.select(this).attr("fill", "grey");
+            d3.select(this).attr("fill", "black");
             tooltip
                 .style("visibility", "visible")
                 .html(
@@ -170,8 +170,8 @@ function BeeswarmChart(data, {
                 .style("top", event.pageY - 10 + "px")
                 .style("left", event.pageX + 10 + "px");
         })
-        .on("mouseout", function () {
-            d3.select(this).attr("fill", "grey");
+        .on("mouseout", function (e, d) {
+            d3.select(this).attr("fill", d => (data[d].SHERPA === "sherpa") ? "#003366" : "#AAA"); //condition
             tooltip.style("visibility", "hidden");
         });
 

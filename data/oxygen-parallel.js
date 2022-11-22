@@ -71,10 +71,10 @@ d3.csv("oxygen_use.csv").then((data) => {
     })
     .on("click", function(e, d) {
       let str = `${d.target.name} by ${d.source.value.toLocaleString()} ${d.source.name}`;
-      d3.select("h2")
+      d3.select("#statement")
         .html(str);
     })
-    .append("title")
+    .append("title") //change position
     .text(d => `${d.source.name} ${d.target.name}`);
 
   // Text elements below
