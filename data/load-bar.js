@@ -20,7 +20,7 @@ d3.csv("avg_load.csv").then(data => {
                 .padding(0.1); /* stylistic element */
 
     const y = d3.scaleLinear()
-                .domain([0, d3.max(data, d => d.load)]).nice() /* .nice will round up last value to make it look clean */
+                .domain([0, 100]).nice() /* .nice will round up last value to make it look clean */
                 .range([height - margin.bottom, margin.top]);
 
     const xAxis = g => g
@@ -44,7 +44,7 @@ d3.csv("avg_load.csv").then(data => {
         .attr("class", "bar");
 
     bar.append("rect")
-        .attr("fill", "steelblue")
+        .attr("fill", "navy")
         .attr("x", d => x(d.type))
         .attr("width", x.bandwidth())
         .attr("y", d => y(d.load))

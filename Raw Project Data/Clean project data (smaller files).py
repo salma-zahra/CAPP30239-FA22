@@ -75,6 +75,19 @@ everest_deaths.to_csv(os.path.join(datapath,'everest_deaths.csv'))
 #everest_deaths_year = everest_deaths.groupby(['MYEAR', 'SHERPA'])['PKNAME'].count().reset_index()
 #everest_deaths_year.to_csv(os.path.join(datapath,'everest_deaths_year.csv'))
 
+#everest oxygen
+everest.columns
+everest_oxygen = everest.drop(columns=['EXPID', 'MSEASON', 'YOB', 'CITIZEN', 'STATUS', 'OCCUPATION', 'LEADER', 'DEPUTY',
+       'SUPPORT', 'DISABLED', 'HIRED', 'TIBETAN', 'MSUCCESS',
+       'MCLAIMED', 'MDISPUTED', 'MSOLO', 'MTRAVERSE', 'MSKI', 'MPARAPENTE', 'MO2NONE', 'MO2CLIMB', 'MO2DESCENT', 'MO2SLEEP',
+       'MO2MEDICAL', 'DEATH', 'DEATHDATE', 'DEATHTIME', 'INJURY', 'INJURYDATE',
+       'INJURYTIME', 'DEATHNOTE'])
+everest_oxygen['SHERPA'] = everest_oxygen['SHERPA'].map({False: 'non-sherpa', True: 'sherpa'})
+everest_oxygen['MO2USED'] = everest_oxygen['MO2USED'].map({False: '02 not used', True: '02 used'})
+
+oxygen_use = everest_oxygen.groupby(['MO2USED', 'SHERPA'])['PKNAME'].count()
+oxygen_use.to_csv(os.path.join(datapath, 'oxygen_use.csv'))
+
 #everest injured
 
 everest_injured = everest[everest['INJURY'] == True]
@@ -89,6 +102,7 @@ everest_summit.to_csv(os.path.join(datapath,'everest_summit.csv'))
 
 sherpa_everest = everest_summit[everest_summit['SHERPA'] == True]
 avg_climb_sherpa = sherpa_everest.groupby(['CLIMBER', 'YOB'])['PKNAME'].count().reset_index()
+avg_climb_sherpa['Sher'] = pd.Series(['Sherpa' for x in range(len(avg_climb_sherpa.index))])
 avg_climb_sherpa.head()
 
 sherpa_summit_dist = avg_climb_sherpa['PKNAME'].describe().reset_index()
@@ -98,6 +112,7 @@ sherpa_summit_dist.rename({'PKNAME': 'Sherpa'}, axis=1, inplace=True)
 
 climber_everest = everest_summit[everest_summit['SHERPA'] == False]
 avg_climb_climber = climber_everest.groupby(['CLIMBER', 'YOB'])['PKNAME'].count().reset_index()
+avg_climb_climber['Sher'] = pd.Series(['Non-sherpa' for x in range(len(avg_climb_climber.index))])
 avg_climb_climber.head()
 
 climber_summit_dist = avg_climb_climber['PKNAME'].describe().reset_index()
@@ -106,6 +121,10 @@ climber_summit_dist.rename({'PKNAME':'Climber'}, axis=1, inplace=True)
 #Summit dist
 summit_dist = sherpa_summit_dist.merge(climber_summit_dist, on='index', how='inner')
 summit_dist.to_csv(os.path.join(datapath,'summit_dist.csv'))
+
+#Avg climb rainplot
+avg_climb_merge = pd.concat([avg_climb_sherpa, avg_climb_climber])
+avg_climb_merge.to_csv(os.path.join(path, 'avg_climb.csv'))
 
 #avg_climber = climber_everest.groupby(['CLIMBER', 'YOB']).count().reset_index()
 #avg_climber.head()
