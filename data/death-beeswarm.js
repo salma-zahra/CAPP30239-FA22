@@ -33,7 +33,7 @@ function BeeswarmChart(data, {
     title = null, // given d in data, returns the title
     group, // given d in data, returns an (ordinal) value for color
     groups, // an array of ordinal values representing the data groups
-    colors = ["pink", "teal"], // an array of color strings, for the dots
+    colors = ["#AAA", "#003366"], // an array of color strings, for the dots
     radius = 4, // (fixed) radius of the circles
     padding = 6, // (fixed) padding between the circles
     marginTop = 10, // top margin, in pixels
@@ -148,12 +148,17 @@ function BeeswarmChart(data, {
     const tooltip = d3.select("body").append("div")
             .attr("class", "svg-tooltip")
             .style("position", "absolute")
-            .style("visibility", "hidden");
+            .style("visibility", "hidden")
+            .style("background-color", "white")
+            .style("border", "solid")
+            .style("border-width", "1px")
+            .style("border-radius", "5px")
+            .style("padding", "10px");
         
     dot
         .on("mouseover", function (event, i) {
             const d = data[i];
-            d3.select(this).attr("fill", "black");
+            d3.select(this).attr("fill", "grey");
             tooltip
                 .style("visibility", "visible")
                 .html(
@@ -166,7 +171,7 @@ function BeeswarmChart(data, {
                 .style("left", event.pageX + 10 + "px");
         })
         .on("mouseout", function () {
-            d3.select(this).attr("fill", "black");
+            d3.select(this).attr("fill", "grey");
             tooltip.style("visibility", "hidden");
         });
 
