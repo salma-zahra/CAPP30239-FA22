@@ -70,7 +70,7 @@ d3.csv("oxygen_use.csv").then((data) => {
         .attr("opacity", 0.75);
     })
     .on("click", function(e, d) {
-      let str = `${d.target.name} by ${d.source.value.toLocaleString()} ${d.source.name}`;
+      let str = `${d.target.name} by ${d.source.value.toLocaleString()} ${d.source.name} during the climb`;
       d3.select("#statement")
         .html(str);
     })
