@@ -10,8 +10,8 @@ import pandas as pd
 import os
 
 # Loading, merging and filtering data
-path = '/Users/salma/Documents/GitHub/CAPP30239-FA22/Raw Project Data'
-datapath = '/Users/salma/Documents/GitHub/CAPP30239-FA22/data'
+path = r'/Users/salma/Documents/GitHub/CAPP30239-FA22/Raw Project Data'
+datapath = r'/Users/salma/Documents/GitHub/CAPP30239-FA22/data'
 
 peak_names = pd.read_csv(os.path.join(path, 'peak_data.csv'), 
                          usecols = ['PEAKID', 'PKNAME'])
@@ -72,8 +72,16 @@ everest_deaths['SHERPA'] = everest_deaths['SHERPA'].map({False: 'non-sherpa', Tr
 everest_deaths.insert(0, 'CLIMBER', everest_deaths.pop('CLIMBER'))
 everest_deaths.to_csv(os.path.join(datapath,'everest_deaths.csv'))
 
-#everest_deaths_year = everest_deaths.groupby(['MYEAR', 'SHERPA'])['PKNAME'].count().reset_index()
-#everest_deaths_year.to_csv(os.path.join(datapath,'everest_deaths_year.csv'))
+#everest deaths (sherpa only)
+
+everest_deaths_sherpa = everest_deaths[everest_deaths['SHERPA'] == 'sherpa']
+everest_deaths_sherpa = everest_deaths_sherpa['DEATHNOTE']
+everest_deaths_sherpa = everest_deaths_sherpa.dropna()
+everest_deaths_sherpa.to_csv(os.path.join(datapath,'everest_deaths_sherpa.csv'))
+
+with open('/Users/salma/Documents/GitHub/CAPP30239-FA22/data/everest_deaths_sherpa.txt', 'a') as f:
+    dfAsString = everest_deaths_sherpa.to_string(header=False, index=False)
+    f.write(dfAsString)
 
 #everest oxygen
 everest.columns

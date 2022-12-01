@@ -67,8 +67,25 @@ d3.csv("avg_load.csv").then(data => {
         .style("stroke-width", "1px");
 
     var myText =  svg.append("text")
+        .attr("y", height - 130)//magic number here
+        .attr("x", 550)
+        .style("font-size", "10px")
+        .attr('text-anchor', 'middle')
+        .attr("class", "myLabel")//easy to style with CSS
+        .text("Recommended");
+
+    var myText =  svg.append("text")
+        .attr("y", height - 120)//magic number here
+        .attr("x", 550)
+        .style("font-size", "10px")
+        .attr('text-anchor', 'middle')
+        .attr("class", "myLabel")//easy to style with CSS
+        .text("weight = ");
+
+    var myText =  svg.append("text")
         .attr("y", height - 110)//magic number here
         .attr("x", 550)
+        .style("font-size", "10px")
         .attr('text-anchor', 'middle')
         .attr("class", "myLabel")//easy to style with CSS
         .text("20%");
