@@ -11,13 +11,13 @@
 </head>
 
 <body>
-  <div class="title" id="title">
+  <div id="title">
     <h1>Why are Sherpas dying on Everest?</h1>
+    <p>
+      This data is from the <a href="https://www.himalayandatabase.com/">
+        Himalayan Database</a>. It is visualized by Salma Zahra for CAPP 30239, Fall 2022
+    </p>
   </div>
-  <p>
-    This data is from the <a href="https://www.himalayandatabase.com/">
-      Himalayan Database</a>. It is visualized by Salma Zahra for CAPP 30239, Fall 2022
-  </p>
   <div class="textleft">
     <h2>
       Who are the Sherpas?
@@ -27,18 +27,19 @@
     </p>
   </div>
   <hr>
-  <div class="textleft">
-    <h2>
-      One third of all people who die on Everest are Sherpas 
-    </h2>
-    <p>
-      From 1999 to 2019, the number of climbers on Everest has more than doubled. During this time, 311 people have died trying to conquer the highest of the 14 peaks. The reasons for death vary from natural disasters to fatigue, falls, injuries, and altitude sickness. What’s shocking is that one third of the casualties on this mountain have been Sherpas. 
-    </p>
-  </div>
-  <hr>
-  <div id="container">
-      <h2>Deaths on Everest each year</h2>
-      <div id="beeswarm-chart"></div>
+  <div class="flex-container">
+    <div class="textleft flex-item">
+      <h2>
+        One third of all people who die on Everest are Sherpas 
+      </h2>
+      <p>
+        From 1999 to 2019, the number of climbers on Everest has more than doubled. During this time, 311 people have died trying to conquer the highest of the 14 peaks. The reasons for death vary from natural disasters to fatigue, falls, injuries, and altitude sickness. What’s shocking is that one third of the casualties on this mountain have been Sherpas. 
+      </p>
+    </div>
+    <div class="flex-item" id="container">
+        <h2>Deaths on Everest each year</h2>
+        <div id="beeswarm-chart"></div>
+    </div>
   </div>
   <hr>
   <div class="textleft">
@@ -50,7 +51,7 @@
     </p>
   </div>
   <hr>
-  <div id="container">
+  <div class="container">
       <h2>Distribution of successful Everest ascents</h2>
       <div id="box-plot"></div>
   </div>
@@ -67,7 +68,7 @@
     </p>
   </div>
   <hr>
-  <div id="container">
+  <div class="container">
     <h2  id="statement"></h2>
     <div id="parallel-chart"></div>
   </div>
@@ -84,7 +85,7 @@
     </p>
   </div>
   <hr>
-  <div id="container">
+  <div class="container">
       <h2>Average weight carried by type of climber, as percentage of body weight</h2>
       <div id="bar-chart"></div>
   </div>
@@ -109,9 +110,8 @@
       Elizabeth hawley
     </p>
   </div>
-  <hr>
   <div class="container">
-    <img src=”(https://en.wikipedia.org/wiki/Elizabeth_Hawley#/media/File:Elitzabeth_Hawley_Card.jpg)”>
+    <img src="elizabethhawley.jpeg">
   </div>
 </body>
 <script src="https://d3js.org/d3.v7.min.js"></script>
