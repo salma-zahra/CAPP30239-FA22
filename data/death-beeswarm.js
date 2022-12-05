@@ -173,7 +173,7 @@ function BeeswarmChart(data, {
             // .style("border", "solid")
             // .style("border-width", "1px")
             // .style("border-radius", "5px")
-            .style("padding", "10px");
+            .style("width", "150px");
         
     dot
         .on("mouseover", function (event, i) {

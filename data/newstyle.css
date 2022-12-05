@@ -46,16 +46,15 @@
     height: 600px;
     margin: 0 auto;
     text-align: center;
+    padding-top: 20px;
   }
 
-img {
-  max-width: 100%;
-}
-  
-  #words {
-    max-width: 1000px;
-    margin: 0 auto;
-    text-align: left;
+  #box-plot {
+    margin: auto;
+  }
+
+  img {
+    max-width: 100%;
   }
 
   .textonly { 
@@ -80,36 +79,53 @@ img {
     color: #fff;
   }
 
+  .sourcepage { 
+    padding: 20px;
+    width: 60%;
+    height: 600px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: #ffffff;
+    color: #003366;
+  }
+
   a:link {
-    color: rgb(168, 106, 106);
+    color: #fff;
   }
   
   a:visited {
-    color: rgb(183, 103, 103);
+    color: #fff;
   }
 
   h1 {
     font-size: 32px;
     text-transform: none;
     font-weight: 600;
-    color: #003366;
-    padding-top: 25%;
+    color: #e3e7eb;
+    padding-top: 5%;
   }
 
-  #title p {
-    padding-top: 350px;
-    text-align: left;
+  #container h2 {
+    text-align: center;
   }
 
   /* #is for something that already has a name */
   #title {
     width: 100%;
-    height: 800px;
+    height: 900px;
     margin: 0 auto;
     text-align: center;
-    background-image: url("sherpapic.jpeg");
+    background-image: url("sherpapic2.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
+  }
+
+  #title p {
+    padding-top: 740px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 1px;
   }
   
   #chart {
@@ -133,7 +149,7 @@ img {
     padding: 1rem;
     position: absolute;
     text-overflow: ellipsis;
-    white-space: pre;
+    /* white-space: pre; */
     z-index: 300;
     visibility: hidden;
   }

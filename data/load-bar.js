@@ -47,15 +47,15 @@ d3.csv("avg_load.csv").then(data => {
         .attr("class", "bar");
 
     bar.append("rect")
-        .attr("fill", "#AAA")    
-        // .attr("fill", d => (data[d].type === "American climber") ? "#003366" : "#AAA")
+        //.attr("fill", "#AAA")    
+        .attr("fill", d => (d.type === "American climber") ? "#003366" : "#AAA")
         .attr("x", d => x(d.type))
         .attr("width", x.bandwidth())
         .attr("y", d => y(d.load))
         .attr("height", d => y(0) - y(d.load));
 
     bar.append("text")
-        .text(d => d.load)
+        .text(d => d.load + "%")
         .attr("x", d => x(d.type) + (x.bandwidth()/2))
         .attr("y", d => y(d.load) - 15) /* if we do +15 then the data label will be in the middle of the bar*/
         .attr("text-anchor", "middle")
