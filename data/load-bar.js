@@ -7,7 +7,7 @@ d3.csv("avg_load.csv").then(data => {
     }
 
     const height = 300; /*we can also use commas instead of semi-colons and not keep adding const*/
-    const width = 600;
+    const width = 500;
     const margin = ({ top: 25, right:30, bottom:35, left:50}); /*we define margin as an object because we want to give it different values*/ 
     
     let svg = d3.select("#bar-chart")
@@ -33,7 +33,9 @@ d3.csv("avg_load.csv").then(data => {
         // .call(g => g.select(".domain").remove()); //remove y axis
 
     svg.append("g")
-        .call(xAxis);
+        .call(xAxis)
+        .selectAll("text")
+        .style("font-size", "12px");
 
     svg.append("g")
         .call(yAxis);
@@ -57,7 +59,8 @@ d3.csv("avg_load.csv").then(data => {
         .attr("x", d => x(d.type) + (x.bandwidth()/2))
         .attr("y", d => y(d.load) - 15) /* if we do +15 then the data label will be in the middle of the bar*/
         .attr("text-anchor", "middle")
-        .style("fill", "black");
+        .style("fill", "black")
+        .style("font-size", "12px");
 
     svg.append("g")
         .attr("transform", "translate(0, "+y(20)+")")
@@ -67,24 +70,24 @@ d3.csv("avg_load.csv").then(data => {
         .style("stroke-width", "1px");
 
     var myText =  svg.append("text")
-        .attr("y", height - 130)//magic number here
-        .attr("x", 550)
+        .attr("y", height - 110)//magic number here
+        .attr("x", 450)
         .style("font-size", "10px")
         .attr('text-anchor', 'middle')
         .attr("class", "myLabel")//easy to style with CSS
         .text("Recommended");
 
     var myText =  svg.append("text")
-        .attr("y", height - 120)//magic number here
-        .attr("x", 550)
+        .attr("y", height - 100)//magic number here
+        .attr("x", 450)
         .style("font-size", "10px")
         .attr('text-anchor', 'middle')
         .attr("class", "myLabel")//easy to style with CSS
         .text("weight = ");
 
     var myText =  svg.append("text")
-        .attr("y", height - 110)//magic number here
-        .attr("x", 550)
+        .attr("y", height - 90)//magic number here
+        .attr("x", 450)
         .style("font-size", "10px")
         .attr('text-anchor', 'middle')
         .attr("class", "myLabel")//easy to style with CSS
