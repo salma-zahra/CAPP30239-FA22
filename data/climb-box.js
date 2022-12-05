@@ -15,7 +15,6 @@ d3.csv("avg_climb.csv").then(results => {
             "translate(" + margin.left + "," + margin.top + ")");
     
     // create dummy data
-    // var data = [12,19,11,13,12,22,13,4,15,16,18,19,20,12,11,9]
     var x = d3.scaleBand()
         .domain(["Sherpa","Non-sherpa"])
         .range([0,width]);
