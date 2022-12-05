@@ -187,8 +187,8 @@ function BeeswarmChart(data, {
         })
         .on("mousemove", function (event) {
             tooltip
-                .style("top", event.pageY - 10 + "px")
-                .style("left", event.pageX + 10 + "px");
+                .style("top", event.pageY + 20 + "px")
+                .style("left", event.pageX - 150 + "px");
         })
         .on("mouseout", function (e, d) {
             d3.select(this).attr("fill", d => (data[d].SHERPA === "sherpa") ? "#003366" : "#AAA"); //condition
