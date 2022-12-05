@@ -1,0 +1,132 @@
+* {
+    font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+  }
+  .flex-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      align-items: flex-start;
+      align-content: flex-start;
+      width: 100%;
+      max-width: 1040px;
+      height: 80vh;
+      overflow: auto;
+      flex-direction: row;
+      margin: 0 auto;
+      background-color: lightblue;
+  }
+  .flex-container .flex-item {
+      width: 100%;
+      min-height: 500px;
+      /*margin: 5px; */
+  }
+  svg { width: 100%; }
+  text, 
+  p { 
+    font-size: 16px; 
+  }
+
+  
+
+  /* Responsive Design: stacks graphs when you resize window */
+  @media only screen and (max-width: 600px) {
+      .flex-container {
+          display: block;
+          width: 80%;
+          height: auto;
+      }
+      .flex-container .flex-item { min-height: auto; }
+  }
+  
+  #container {
+    max-width: 1000px;
+    width: 65%; 
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+
+  
+  #words {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+  }
+
+  .textonly { 
+    padding: 100px;
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #003366;
+    color: #fff;
+    font-weight: bold;
+    font-size: 24px;
+  }
+    /* .name is for naming stuff*/
+  .textleft { 
+    padding: 20px;
+    width: 35%;
+    height: 600px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: #003366;
+    color: #fff;
+  }
+
+  a:link {
+    color: rgb(168, 106, 106);
+  }
+  
+  a:visited {
+    color: rgb(183, 103, 103);
+  }
+
+  h1 {
+    font-size: 32px;
+    text-transform: none;
+    font-weight: 600;
+    color: #003366;
+  }
+
+  /* #is for something that already has a name */
+  #title {
+    max-width: 1000px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url("https://en.wikipedia.org/wiki/Mount_Everest#/media/File:Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg")
+  }
+  
+  #chart {
+    width: 100%;
+  }
+  
+  svg {
+    max-width: 100%; 
+    height: auto;
+  }
+  
+  .svg-tooltip {
+    background: rgba(69, 77, 93, .9);
+    border-radius: 5px;
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: none;
+    max-width: 300px;
+    padding: 1rem;
+    position: absolute;
+    text-overflow: ellipsis;
+    white-space: pre;
+    z-index: 300;
+    visibility: hidden;
+  }
+  
+  svg text {
+    text-transform: lowercase;
+  }
+  

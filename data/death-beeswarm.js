@@ -145,14 +145,34 @@ function BeeswarmChart(data, {
 
     if (G) dot.attr("fill", i => color(G[i]));
 
+    // // Add legend
+    // const scale = d3.scaleOrdinal()
+    // .domain(["sherpa", "non-sherpa"])
+    // .range(["#003366", "#AAA"]);
+    
+    // const legend = d3Legend
+    // .legendColor()
+    // .shape("path", d3.symbol().type(d3.symbolCircle).size(25)()) //.shape("circle")
+    // .shapePadding(15)
+    // .labelOffset(5)
+    // .scale(scale)
+    // .labels(["sherpa", "non-sherpa"]);
+    
+    // svg.append("g")
+    // .attr("class", "legend_auto")
+    // .style('font-size', 12)
+    // .style('font-family', 'sans-serif')
+    // .attr("transform", `translate(${width - margin.right + 5}, ${margin.top})`)
+    // .call(legend)
+
     const tooltip = d3.select("body").append("div")
             .attr("class", "svg-tooltip")
             .style("position", "absolute")
             .style("visibility", "hidden")
-            .style("background-color", "white")
-            .style("border", "solid")
-            .style("border-width", "1px")
-            .style("border-radius", "5px")
+            // .style("background-color", "white")
+            // .style("border", "solid")
+            // .style("border-width", "1px")
+            // .style("border-radius", "5px")
             .style("padding", "10px");
         
     dot

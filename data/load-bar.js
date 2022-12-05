@@ -6,7 +6,7 @@ d3.csv("avg_load.csv").then(data => {
         d.load = +d.load;
     }
 
-    const height = 400; /*we can also use commas instead of semi-colons and not keep adding const*/
+    const height = 300; /*we can also use commas instead of semi-colons and not keep adding const*/
     const width = 600;
     const margin = ({ top: 25, right:30, bottom:35, left:50}); /*we define margin as an object because we want to give it different values*/ 
     
@@ -17,7 +17,7 @@ d3.csv("avg_load.csv").then(data => {
     const x = d3.scaleBand() /* first scale: d3 is a scale for barcharts. There's lots of different types fo scales. Scales allow you to give your data a domain and a range.*/
                 .domain(data.map(d => d.type)) /* map will match the values in the csv*/
                 .range([margin.left, width - margin.right]) /* margin.left because we made left a variable*/
-                .padding(0.4); /* stylistic element */
+                .padding(0.5); /* stylistic element */
 
     const y = d3.scaleLinear()
                 .domain([0, 100]).nice() /* .nice will round up last value to make it look clean */

@@ -1,61 +1,74 @@
 * {
-    font-family: 'Work Sans',Arial, Helvetica, sans-serif;
-  }
-
-  h1 {
-    font-size: 1.5em;
-  }
-
-  .container {
-    max-width: 800px;
+  font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    width: 60%;
+    max-width: 1040px;
+    height: 80vh;
+    overflow: auto;
+    flex-direction: row;
     margin: 0 auto;
-  }
+}
+.flex-container .flex-item {
+    width: 60%;
+    min-height: 500px;
+    margin: 5px;
+}
+svg { width: 100%; }
+text { font-size: 16px; }
+/* Responsive Design: stacks graphs when you resize window */
+@media only screen and (max-width: 600px) {
+    .flex-container {
+        display: block;
+        width: 80%;
+        height: auto;
+    }
+    .flex-container .flex-item { min-height: auto; }
+}
 
-  #chart {
-    width: 100%;
-  }
+#container {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
 
-  svg {
-    max-height: 100vh;
-  }
+h1 {
+  font-size: 32px;
+  text-transform: none;
+  font-weight: 600;
+}
 
-  .svg-tooltip {
-    background: rgba(69, 77, 93, .9);
-    border-radius: 5px;
-    color: #fff;
-    display: block;
-    font-size: 12px;
-    line-height: 16px;
-    text-transform: none;
-    max-width: 320px;
-    padding: 1rem;
-    position: absolute;
-    text-overflow: ellipsis;
-    white-space: pre;
-    z-index: 300;
-    visibility: hidden;
-  }
+#chart {
+  width: 100%;
+}
 
-  .domain {
-    display: none;
-  }
-  
-  line {
-    stroke: #ddd;
-  }
+svg {
+  max-width: 100%; 
+  height: auto;
+}
 
-  svg text {
-    font-size: 8px;
-  }
-  
-  .x-axis text {
-    transform: translateY(5px);
-  }
-  
-  .y-axis text {
-    transform: translateX(-5px);
-  }
+.svg-tooltip {
+  background: rgba(69, 77, 93, .9);
+  border-radius: 5px;
+  color: #fff;
+  display: block;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: none;
+  max-width: 300px;
+  padding: 1rem;
+  position: absolute;
+  text-overflow: ellipsis;
+  white-space: pre;
+  z-index: 300;
+  visibility: hidden;
+}
 
-  foreignObject p {
-    font-size: 10px;
-  }
+svg text {
+  text-transform: lowercase;
+}
