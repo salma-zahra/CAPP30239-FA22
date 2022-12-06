@@ -59,6 +59,7 @@
 
   .textonly { 
     padding: 100px;
+    padding-top: 10px;
     width: 80%;
     height: 600px;
     margin: 0 auto;
@@ -68,6 +69,16 @@
     font-weight: bold;
     font-size: 24px;
   }
+  .elizabethleft { 
+    padding: 20px;
+    width: 35%;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #003366;
+    color: #fff;
+  }
+
     /* .name is for naming stuff*/
   .textleft { 
     padding: 20px;
@@ -81,7 +92,7 @@
 
   .sourcepage { 
     padding: 20px;
-    width: 60%;
+    width: 80%;
     height: 600px;
     margin: 0 auto;
     text-align: left;
@@ -122,10 +133,10 @@
   }
 
   #title p {
-    padding-top: 740px;
+    padding-top: 748px;
     text-align: center;
     color: rgb(255, 255, 255);
-    font-size: 1px;
+    font-size: 14px;
   }
   
   #chart {
