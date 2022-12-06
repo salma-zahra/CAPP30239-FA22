@@ -48,7 +48,7 @@ d3.csv("avg_load.csv").then(data => {
 
     bar.append("rect")
         //.attr("fill", "#AAA")    
-        .attr("fill", d => (d.type === "American climber") ? "#003366" : "#AAA")
+        .attr("fill", d => (d.type === "American climber") ? "#AAA" : "#003366")
         .attr("x", d => x(d.type))
         .attr("width", x.bandwidth())
         .attr("y", d => y(d.load))
